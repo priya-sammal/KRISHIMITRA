@@ -1,0 +1,1270 @@
+body{
+    color:#354463;
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.container{
+    display:grid;
+    font-family:"Lato", sans-serif;
+}
+
+            /*commons*/
+.common-headings{
+    font-size:0.875rem;
+    width:10rem;
+    text-align:center;
+    align-self:center;
+    padding:0.6875rem 0rem;
+    margin-top:-1.2rem;
+}
+.read-more-button-commons{
+    background-color:#C1F7D5;
+    font-weight:bold;
+    font-size:1rem;
+    text-align:center;
+    border-radius:6.785rem;
+    padding:0.625rem;
+    width:9.5rem;
+}
+
+
+
+
+            /*heading*/
+.heading{
+    padding:2rem;
+    display:grid;
+    grid-template-columns:8rem 6rem;
+    grid-template-rows:7.8125rem 2.625rem;
+    align-items:center;
+    justify-content:space-between;
+    width:19.5rem;
+    margin:auto;
+    row-gap:0.625rem;
+    column-gap: 0.1rem;;
+}
+.heading-topic{
+    font-weight:bold;
+    font-size:1.6rem;
+    align-self:center;
+}
+.subheading-topic{
+    font-size:0.55rem;
+}
+a{
+    text-decoration:none;
+    color:#354463;
+}
+.heading-list-ul{
+    display:flex;
+    flex-direction:column;
+    font-size:0.825rem;
+    padding:0rem;
+    list-style:none;
+    row-gap:1rem;
+}
+.donate-button{
+    font-weight:bold;
+    font-size:1.125rem;
+    background-color:#C1F7D5;
+    text-align:center;
+    border-radius:6.785rem;
+    padding:0.625rem;
+}
+.change-language{
+    font-weight:bold;
+    font-size:1.125rem;
+    background-color:#354463;
+    color: whitesmoke;
+    border-radius:50%;
+    padding:0.625rem;
+    cursor: pointer;
+    height: 2rem;
+    width: 2rem;
+    display: flex;
+}
+.common-lang{
+        align-self: center;
+        margin-left: 5px;
+}
+
+
+.hidden{
+    display: none !important ;
+}
+
+
+
+
+
+    /*the issue*/
+.the-challenge-background-image{
+    background-image: url('src//annie-spratt-135307-unsplash@2x.png');
+    height:40.9375rem;
+    background-repeat:none;
+    background-size:cover;
+}
+.the-challenge-container{
+    padding:2rem 2rem 3rem 2rem;
+    display:grid;
+    grid-template-rows: auto auto;
+    width:19.5rem;
+    margin:auto;
+    gap:7.25rem;
+}
+.support-indian-farmers{
+    font-size:2.75rem;
+    width:11.3125rem;
+    color:#FFFFFF;
+    font-family: "flood-std", sans-serif;
+}
+.about-the-challenge{
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items:center;
+    background-color:#FFFFFF;
+    gap:2.1875rem;
+    padding:0rem 2rem 1.9375rem 2rem;
+}
+.the-challenge-topic{
+    background-color:#354463;
+    color:#ffffff;
+}
+.the-challenge-threats{
+    font-size:1.3125rem;
+    font-weight:bold;
+    text-align:center;
+}
+.read-more-cause{
+    font-size:0.875rem;
+    text-decoration:underline;
+    text-align:center;
+}
+
+/*take-action*/
+.take-action-container{
+    padding:0rem 2rem 3.55rem 2rem;
+    background-color:#C1F7D5;
+    display:flex;
+    flex-direction:column;
+    gap:3.125rem;
+}
+.take-action-heading{
+    color:white;
+    background-color:#354463;
+}
+.take-action-grid{
+    display:grid;
+    grid-template-columns:auto auto;
+    grid-template-rows:auto auto;
+    column-gap:1.5rem;
+    row-gap:1.6875rem;
+    width:19.5rem;
+    height:13.125rem;
+    margin:auto;
+}
+.common-take-action-container{
+    display:flex;
+    flex-direction:column;
+    gap:0.5625rem;
+}
+.learn-heading,.volunteer-heading,.share-heading,.donate-heading{
+    font-weight:bold;
+    font-size:1.125rem;
+}
+.learn-para,.volunteer-para,.share-para,.donate-para{
+    font-size:0.875rem;
+}
+.share-dropdown {
+    display: none;
+    position: absolute;
+    left:35%;
+    top: -80%;
+    background: white;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    width: 11rem;
+}
+
+.share-item {
+    padding: 6px 10px;
+    cursor: pointer;
+}
+
+.share-item:hover {
+    background: #f0f0f0;
+}
+
+.share-container:hover .share-dropdown {
+    display: block;
+}
+
+.share-container {
+    position: relative;
+}
+
+
+
+    /*krishi-mitra*/
+.krishi-mitra-container-background{
+    background-color:#354463;
+    height:109.375rem;
+    }
+.krishi-mitra-container{
+    padding:63px 32px 32px 32px;
+    display:grid;
+    width:312px;
+    grid-template-rows: 10.875rem 88rem;
+    gap:105px;
+    margin:auto;
+
+}
+.krishi-mitra-title-container{
+    display:flex;
+    flex-direction:column;
+    gap:22px;
+    color:white;
+    height:170px;
+    align-items:center;
+}
+.krishi-mitra-heading{
+    background-color:white;
+    color:#354463;
+}
+.about-krishi-mitra{
+    font-size:22px;
+    font-weight:bold;
+    text-align:center;
+    width:302px;
+}
+.ml-predict-container{
+    display:grid;
+    grid-template-rows: 28.44rem 28.44rem 28.44rem;
+    height:1408px;
+    gap:32px;
+}
+.soil-prediction-container, .fertilizer-prediction-container, .crop-prediction-container{
+    background-color:white;
+    padding:0px 32px;
+    display:grid;
+    grid-template-rows:176px 165px 42px;
+    justify-items:center;
+    height:390px;
+}
+
+.soil-prediction-image>img, .fertilizer-prediction-image>img, .crop-prediction-image>img{
+    width:248px;
+    margin-top:-33px;
+}
+
+.soil-prediction-topic-box, .fertilizer-prediction-topic-box, .crop-prediction-topic-box{
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+    align-items:center;
+    text-align:center;
+}
+.soil-prediction-topic, .fertilizer-prediction-topic, .crop-prediction-topic{
+    font-size:18px;
+
+    font-weight:bold;
+}
+.about-soil-prediction, .about-fertilizer-prediction, .about-crop-prediction{
+    font-size:14px;
+    width:242px;
+}
+.crop-prediction-button {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    z-index: 9999;
+}
+
+
+
+   /*farmers-insight*/
+.farmers-insight-background-image{
+    background-image: url('src//Did you know background@2x.png');
+    height:63rem;
+    background-repeat:none;
+    background-size:cover;
+}
+.farmers-insight-container{
+    margin:auto;
+    padding:4rem 2rem 2rem 2rem;
+    display:grid;
+    width:19.5rem;
+    grid-template-rows:15rem 37rem;
+    gap:5rem;
+}
+.farmers-insight-topic-container{
+    display:flex;
+    flex-direction:column;
+    gap:1.5625rem;
+}
+.farmers-insight-topic{
+    font-size:2.9375rem;
+    font-family:"flood-std", sans-serif;
+    color:white;
+}
+.take-action-button{
+    padding:0.625rem 0rem;
+}
+
+.did-you-know-containers{
+    display:flex;
+    flex-direction:column;
+    gap:1rem;
+    width:19.5rem;
+}
+
+.did-you-know-first-box{
+    background-color:white;
+    display:flex;
+    flex-direction:column;
+    gap:1rem;
+    height:8.5rem;
+}
+.did-you-know-topic {
+    background-color:#354463;
+    color:white;
+}
+.did-you-know-first-box-grid{
+    display:grid;
+    padding:0rem 2rem 1.5rem 2rem;
+    grid-template-columns:12.375rem auto;
+    grid-template-rows:2rem auto;
+    column-gap:1.6875rem;
+    row-gap:1.125rem;
+}
+
+/*commons did-you-know-box*/
+.did-you-know-common-box{
+    padding:1.5rem 2rem;
+    background-color:white;
+    height:8.5rem;
+    display:grid;
+    grid-template-columns:12.375rem 2rem;
+    grid-template-rows:2rem 2.125rem;
+    column-gap:1.6875rem;
+    row-gap:1rem;
+}
+.common-heading-know-box{
+    font-size:1.375rem;
+    font-weight:bold;
+    align-self:end;
+}
+.common-para-know-box{
+    font-size:0.875rem;
+}
+
+.did-you-know-icons{
+    background-color:#C1F7D5;
+    height:2rem;
+    width:2rem;
+    border-radius:50%;
+    display:grid;
+    justify-content:center;
+    align-items:center;
+}
+
+
+           /*stories*/
+.stories-container{
+    padding:3.5rem 2rem 1.9375rem 2rem;
+    display:grid;
+    grid-template-columns:19.5rem;
+    grid-template-rows:19.5rem 23rem;
+    gap:2rem;
+    margin:auto;
+}
+.stories-image-and-heading{
+    background-image:url('src//lady-baby@2x.png');
+    background-repeat:none;
+    background-size:cover;
+    display:flex;
+    flex-direction:column;
+}
+.stories-heading{
+    background-color:#354463;
+    color:white;
+}
+.story-box-and-button{
+    display:flex;
+    flex-direction:column;
+    gap:2rem;
+    align-items:center;
+}
+.story-box{
+    display:flex;
+    padding:1.8125rem 2rem;
+    flex-direction:column;
+    gap:1.0625rem;
+    text-align:center;
+    background-color:#354463;
+    color:white;
+}
+.story{
+    font-size:1.375rem;
+    font-weight:bold;
+}
+.story-by{
+    font-size:0.6875rem;
+}
+
+/*action*/
+.action-container{
+    padding:4.3125rem 2rem 3.4375rem 2rem;
+    background-color:#354463;
+    display:grid;
+    grid-template-columns:19.5rem;
+    grid-template-rows:11.625rem 80.625rem;
+    gap:4.625rem;
+    justify-content:center;
+}
+.action-topic{
+    font-size:2.75rem;
+    text-align:center;
+    font-family:"flood-std", sans-serif;
+    color:white;
+}
+.event-news-container{
+    display:grid;
+    grid-template-rows:37.5rem 37.5rem;
+    grid-template-columns:19.5rem;
+    gap:5.9375rem;
+}
+.earth-day-event-container,.earth-day-news-container{
+    display:grid;
+    grid-template-rows:19.5rem 17.1875rem;
+}
+.action-image,.news-image{
+    background-image:url("src//tree-planting@2x.png");
+    background-size:cover;
+    width:19.5rem;
+    height:19.5rem;
+}
+.event-topic,.news-topic{
+    color:#354463;
+    align-self:center;
+    background-color:white;
+    position:relative;
+    top:-19.5rem;
+}
+.earth-day-box{
+    display:flex;
+    flex-direction:column;
+    color:white;
+    gap:1.25rem;
+    text-align:center;
+}
+.earth-day-topic{
+    font-weight:bold;
+    font-size:1.375rem;
+}
+.earth-day-para{
+    font-size:0.9375rem;
+}
+.action-read-more-button,.news-read-more-button{
+    color:#354463;
+    align-self:center;
+}
+
+        /*subscription*/
+.subscription-container-background{
+    background-color:#C1F7D5;
+}
+.subscription-container{
+    padding:2.25rem 1.375rem 2rem 2rem;
+    display:flex;
+    flex-direction:column;
+    gap:1.875rem;
+    margin:auto;
+    width:20.75rem;
+}
+.about-subscription{
+    font-size:1rem;
+    width:20.125rem;
+    margin-left:0.3125rem;
+}
+.subscribe-form{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
+.subscription-email-input{
+    width:14rem;
+    height:2.5rem;
+    border: 0rem solid white;
+    border-radius:1.25rem;
+    text-align:center;
+}
+.subscribe-button{
+    width:6rem;
+    height:2.5rem;
+    background-color:#354463;
+    color:#C1F7D5;
+    border: 0rem solid #354463;
+    border-radius:1.25rem;
+    text-align:center;
+    font-size: 0.7rem;
+}
+
+/*last-page*/
+.footer{
+    padding:4.0625rem 2.0625rem 3.4375rem 2rem;
+    display:grid;
+    grid-template-columns:5.6875rem 11.3125rem;
+    grid-template-rows:6.75rem 7.5rem 8.4375rem;
+    row-gap:4.25rem;
+    column-gap:2.375rem;
+    margin:auto;
+}
+.footer-topic{
+    font-size:1.125rem;
+    font-weight:bold;
+}
+.contact-us-container,.follow-us-container,.learn-more-container{
+    display:flex;
+    flex-direction:column;
+    gap:0.6875rem;
+    width:7.875rem;
+    height:6.75rem;
+    justify-self:center;
+}
+.follow-us-container{
+    justify-self:start;
+}
+.contact-us-topic,.follow-us-topic,.learn-more-topic{
+    font-size:0.6875rem;
+}
+.contact-us-address{
+    font-size:0.875rem;
+}
+.follow-us-list,.learn-more-list{
+    display:flex;
+    flex-direction:column;
+    gap:0.625rem;
+    font-size:0.875rem;
+    text-decoration:underline;
+}
+.support-indian-farmers-topic{
+    grid-row:3;
+    grid-column:2;
+    font-size:2.75rem;
+    font-family: "flood-std", sans-serif;
+    width:11.625rem;
+}
+
+
+
+        /*Tablet*/
+@media (min-width:30rem) and (max-width:63.9375rem){
+
+    /*commons*/
+    .read-more-button-commons{
+        font-size:1.125rem;
+        padding:0.5625rem 0rem;
+        width:9.75rem;
+    }
+
+    /*heading*/
+    .heading{
+        padding:1.25rem 4rem;
+        display:grid;
+        grid-template-rows:auto auto;
+        grid-template-columns:20.93rem 8.75rem;
+        color:#354463;
+        margin:auto;
+        column-gap:min(10.1875rem,22vw);
+        width:40rem;
+        
+    }
+    .heading-topic{
+        font-size:1.375rem;
+        width:10rem;
+    }
+    .subheading-topic{
+        font-size:1rem;
+    }
+    .heading-list{
+        grid-row:2;
+        grid-column:1;
+    }
+    .heading-list-ul{
+        flex-direction:row;
+        justify-content:space-between;
+        font-size:1rem;
+    }
+    .change-language{
+        justify-self: end;
+        display: flex;
+        text-align: center;
+    }
+    
+
+    /*the challenge*/
+    .the-challenge-background-image{
+        height:45.625rem;
+    }
+    .the-challenge-container{
+        padding:4.31rem 4rem 5rem 4rem;
+        width:40rem;
+    }
+    .about-the-challenge{
+        align-items:start;
+    }
+    .the-challenge-topic{
+        align-self:start;
+    }
+    .the-challenge-threats{
+        width:32rem;
+        font-size:2.25rem;
+        text-align:start;
+    }
+    .read-more-cause{
+        font-size:1rem;
+    }
+
+/*take-action*/
+.take-action-container{
+    padding:0rem 4rem 3.1578rem 4rem;
+}
+.take-action-grid{
+    width:40rem;
+    column-gap:8rem;
+    row-gap:2.75rem;
+}
+.take-action-learn, .take-action-volunteer, .take-action-share, .take-action-donate{
+    width:16rem;
+}
+.learn-heading, .volunteer-heading, .share-heading, .donate-heading{
+    font-size:1.375rem;
+}
+.learn-para, .volunteer-para, .share-para, .donate-para{
+    font-size:1rem;
+}
+
+/*krishi-mitra*/
+
+.krishi-mitra-container-background{
+    height:1700px;
+}
+.krishi-mitra-container{
+    padding:4.95rem 4rem 3.5rem 4rem;
+    gap:10rem;
+    width:640px;
+    grid-template-rows:250px 1050px;
+    gap:64px;
+}
+.krishi-mitra-title-container{
+    align-items:start;
+    gap:32px;
+}
+.krishi-mitra-heading{
+    align-self:start;
+}
+.about-krishi-mitra{
+    text-align:start;
+    font-size:36px;
+    width:640px;
+}
+.ml-predict-container{
+
+    grid-template-rows:280px 280px 280px;
+    gap:9.5rem;
+    height:768px;
+
+}
+.soil-prediction-container, .fertilizer-prediction-container, .crop-prediction-container{
+    padding:0px;
+    display:grid;
+    grid-template-columns:288px 246px;
+    grid-template-rows:201px 40px;
+    column-gap:32px;
+    height:320px;
+    justify-content:center;
+}
+.soil-prediction-image>img, .fertilizer-prediction-image>img, .crop-prediction-image>img{
+    width:288px;
+    height:201px;
+}
+.soil-prediction-image, .fertilizer-prediction-image, .crop-prediction-image{
+
+}
+.soil-prediction-topic-box, .fertilizer-prediction-topic-box, .crop-prediction-topic-box{
+    gap:25px;
+    height:280px;
+    margin-top:36px;
+    text-align:start;
+}
+.soil-prediction-topic, .fertilizer-prediction-topic, .crop-prediction-topic{
+    font-size:22px;
+    width:204px;
+    align-self:start;
+}
+.about-soil-prediction, .about-fertilizer-prediction, .about-crop-prediction{
+    font-size:16px;
+}
+.soil-prediction-button, .fertilizer-prediction-button, .crop-prediction-button{
+    margin-left: -85px;
+    margin-top:-11px;
+    height:22px;
+
+}
+
+/*hunger issue*/
+.farmers-insight-background-image{
+    height:56.0625rem;
+}
+.farmers-insight-container{
+    padding:4rem;
+    grid-template-columns:12.0625rem 24rem;
+    grid-template-rows:auto;
+    width:40rem;
+    gap:4.0625rem;
+}
+.farmers-insight-topic{
+    font-size:2.75rem;
+}
+.did-you-know-containers{
+    width:23rem;
+    gap:2rem;
+    margin-left: 50px;
+}
+.did-you-know-first-box{
+    height:9.5rem;
+    padding:0px 1rem 1.875rem 1rem;
+}
+.did-you-know-topic{
+    align-self:start;
+}
+.did-you-know-first-box-grid{
+    align-self:start;
+    padding:0;
+    grid-template-rows:2.25rem 2.75rem;
+    grid-template-columns:14rem 2rem;
+    column-gap:4rem;
+}
+.did-you-know-common-box{
+    padding:1.8125rem 2rem 1.875rem 2rem;
+    height:6.5rem;
+    grid-template-rows:2.25rem 2.75rem;
+    grid-template-columns:14rem 2rem;
+    column-gap:4rem;
+}
+
+.common-heading-know-box{
+    font-size:2.25rem;
+}
+.common-para-know-box{
+    font-size:0.7rem;
+    width:14rem;
+}
+
+/*stories*/
+.stories-container{
+    padding:4rem 4rem 0.6875rem 4rem;
+    grid-template-columns:40rem;
+    grid-template-rows:35.5rem 22.5rem;
+    gap:0;
+}
+.stories-image-and-heading{
+    width:36rem;
+}
+.story-box-and-button{
+    width:36rem;
+    justify-self:end;
+    align-items:start;
+}
+.story-box{
+    padding:3.8125rem 1.4375rem 3.9375rem 4rem;
+    text-align:start;
+    gap:2.6875rem;
+    height:10.1875rem;
+    margin-top:-3.8125rem;
+}
+.story{
+    font-size:1.5rem;
+}
+.story-by{
+    font-size:0.875rem;
+}
+
+
+/*action*/
+.action-container{
+    padding:4.125rem 4rem 4.5rem 4rem;
+    grid-template-rows:5.625rem 56.875rem;
+    grid-template-columns:39.5rem;
+    gap:3.75rem;
+}
+.action-topic{
+    font-size:2.75rem;
+    width:32.375rem;
+    text-align:start;
+}
+.event-news-container{
+    grid-template-rows:25.9375rem 25.9375rem;
+    gap:4.8125rem;
+}
+.earth-day-event-container,.earth-day-news-container{
+    grid-template-columns:18rem 17.5rem;
+    grid-template-rows:25.9375rem;
+    gap:4rem;
+}
+.event-topic,.news-topic{
+    top:0;
+    margin-top:0;
+    align-self:start;
+}
+.action-image{
+    width:18rem;
+    height:18rem;
+}
+.earth-day-box{
+    gap:2.125rem;
+    text-align:start;
+}
+.earth-day-topic{
+    font-size:1.75rem;
+    width:13.5rem;
+}
+.earth-day-para{
+    font-size:1rem;
+}
+.news-read-more-button,.action-read-more-button{
+    align-self:start;
+}
+.news-image{
+    grid-column:2;
+    grid-row:1;
+    width:17.4375rem;
+    height:18rem;
+}
+.earth-day-news-container>.earth-day-box{
+    grid-column:1;
+    grid-row:1;
+}
+
+/*subscribe*/
+.subscription-container{
+    padding:3.8125rem 4rem 3.9375rem 4rem;
+    gap:2rem;
+    width:40rem;
+}
+.about-subscription{
+    width:28rem;
+    font-size:1.4375rem;
+}
+.subscribe-form{
+    display:flex;
+    gap:1.875rem;
+}
+.subscription-email-input{
+    width:28rem;
+}
+.subscribe-button{
+    width:10rem;
+}
+
+/*footer*/
+.footer{
+    padding:3.75rem 4.6875rem 3.324rem 4rem;
+    grid-template-columns:9.5625rem 7.875rem 11.3125rem;
+    grid-template-rows:8.25rem 8.5rem;
+    row-gap:2.675rem;
+    column-gap:5rem;
+}
+.footer-topic{
+    font-size:1.375rem;
+}
+.contact-us-container,.follow-us-container,.learn-more-container{
+    justify-self:start;
+}
+.learn-more-container{
+    grid-row:2;
+    grid-column:2;
+}
+.support-indian-farmers-topic{
+    grid-row:2;
+    grid-column:3;
+}
+}
+
+
+
+            /*laptop*/
+@media (min-width:64rem){
+    /*commons*/
+    .read-more-button-commons{
+       width:10rem;
+       padding:0.8125rem 0;
+       font-size:1.125rem;
+       align-self:start;
+    }
+
+    /*heading*/
+    .heading{
+        padding:2.125rem 10rem;
+        width:70rem;
+        display:flex;
+        flex-direction:row;
+        flex-grow:0;
+        column-gap:min(14rem, 0vw);
+        margin:auto;
+    }
+    .heading-topic{
+        min-width:10rem;
+        font-size:1.375rem;
+    }
+    .subheading-topic{
+        font-size:1rem;
+    }
+    .heading-list-ul{
+        width:25.3125rem;
+        font-size:1rem;
+        flex-direction:row;
+        justify-content:space-between;
+    }
+    .donate-button{
+        min-width:10rem;
+    }
+
+    /*the-challenge*/
+    .the-challenge-background-image{
+        height:40rem;
+    }
+    .the-challenge-container{
+        padding:8rem 10rem;
+        width:70rem;
+        display:flex;
+        flex-direction:row-reverse;
+        justify-content:flex-end;
+        gap:8.4375rem;
+    }
+    .support-indian-farmers{
+        font-size:4.5rem;
+        width:18.5rem;
+    }
+    .about-the-challenge{
+        width:26rem;
+        height:16.5625rem;
+        padding:0rem 4rem 7.4375rem 4rem;
+        align-items:start;
+    }
+    .the-challenge-threats{
+        font-size:2rem;
+        text-align:start;
+    }
+    .read-more-cause{
+        font-size:1rem;
+    }
+
+
+/*take-action*/
+.take-action-container{
+    padding:0rem 10rem 4.875rem 10rem;
+}
+.take-action{
+    font-size:1.125rem;
+    padding:0.6875rem 0;
+}
+.take-action-grid{
+    display:flex;
+    width:70rem;
+    height:auto;
+    gap:3.5rem;
+}
+.take-action-learn,.take-action-volunteer,.take-action-share,.take-action-donate{
+    width:14.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.learn-heading,.volunteer-heading,.share-heading,.donate-heading{
+    font-size:1.75rem;
+}
+.learn-para,.volunteer-para,.share-para,.donate-para{
+    font-size:1rem;
+}
+
+/*what we do*/
+.krishi-mitra-container-background{
+    height:970px;
+}
+.krishi-mitra-container{
+    padding:108px 9.875rem 10rem 10rem;
+    gap:30px;
+    width:1120px;
+    grid-template-rows:200px 528px;
+
+}
+.krishi-mitra-title-container{
+    width:70.125rem;
+    align-items:start;
+    gap:40px;
+}
+.krishi-mitra-heading{
+    align-self:start;
+}
+.about-krishi-mitra{
+    width:68.25rem;
+    text-align:start;
+    font-size:35px;
+}
+.ml-predict-container{
+    grid-template-columns:20rem 20rem 20rem;
+    grid-template-rows:528px;
+    gap:4rem;
+    height:528px;
+}
+.soil-prediction-container,.fertilizer-prediction-container,.crop-prediction-container{
+    gap:0px;
+    height:528px;
+    grid-template-rows:224px 217px 40px;
+    justify-items:start;
+}
+
+.soil-prediction-image>img,.fertilizer-prediction-image>img,.crop-prediction-image>img{
+    width:320px;
+    height:224px;
+    margin-left:rem;
+}
+.soil-prediction-image,.fertilizer-prediction-image,.crop-prediction-image{
+    height:224px;
+    margin-left:rem;
+}
+.soil-prediction-topic-box,.fertilizer-prediction-topic-box,.crop-prediction-topic-box{
+    text-align:start;
+    height:230px;
+    width:256px;
+    justify-self:start;
+}
+.soil-prediction-button{
+    margin-top:22px;
+}
+.soil-prediction-topic,.fertilizer-prediction-topic,.crop-prediction-topic{
+    font-size:1.75rem;
+    width:256px;
+    height:70px;
+}
+.about-soil-prediction,.about-fertilizer-prediction,.about-crop-prediction{
+    font-size:1rem;
+    height:144px;
+}
+
+/*farmers-insight*/
+
+.farmers-insight-background-image{
+    height:79.9375rem;
+}
+.farmers-insight-container{
+    padding:8rem 10rem;
+    grid-template-columns:27.3125rem 34rem;
+    grid-template-rows:auto;
+    width:70rem;
+    gap:8.6875rem;
+}
+.farmers-insight-topic-container{
+    gap:3.625rem;
+}
+.farmers-insight-topic{
+    font-size:4.5rem;
+}
+.did-you-know-containers{
+    width:34rem;
+    gap:2rem;
+}
+.did-you-know-first-box{
+    height:11.75rem;
+    padding:0 3.5rem 3.3125rem 4rem;
+    gap:2.625rem;
+}
+.did-you-know-topic{
+    align-self:start;
+}
+.did-you-know-first-box-grid{
+    align-self:start;
+    padding:0;
+    grid-template-rows:2.75rem 4.25rem;
+    grid-template-columns:21rem 2rem;
+    column-gap:3.5rem;
+}
+.did-you-know-common-box{
+    padding:3.875rem 3.5rem 3.3125rem 4rem;
+    height:7.3125rem;
+    grid-template-rows:2.75rem 4.25rem;
+    grid-template-columns:21rem 2rem;
+    column-gap:3.5rem;
+}
+
+.common-heading-know-box{
+    font-size:2.75rem;
+}
+.common-para-know-box{
+    font-size:1.25rem;
+}
+
+
+/*stories*/
+.stories-container{
+    padding:8rem 10rem;
+    display:grid;
+    grid-template-rows:35.5rem;
+    grid-template-columns:30rem 40rem;
+    gap:0;
+}
+.stories-image-and-heading{
+    position:relative;
+    padding:0 0 0 4rem;
+    right:4rem;
+    width:40rem;
+}
+.stories-heading{
+    align-self:start;
+}
+.story-box-and-button{
+    grid-column:1;
+    grid-row:1;
+    gap:4rem;
+    align-self:end;
+}
+.story-box{
+    padding:3.25rem 4rem 2.5625rem 4rem;
+    height:18rem;
+    text-align:start;
+    gap:1.375rem;
+    position:relative;
+}
+.story{
+    font-size:1.75rem;
+}
+.story-by{
+    font-size:0.875rem;
+}
+
+
+   /*action*/
+.action-container{
+    padding:8rem 10rem 7rem 10rem;
+    grid-template-rows:9.25rem 79rem;
+    grid-template-columns:70.0625rem;
+    gap:4.625rem;
+}
+.action-topic{
+    font-size:4.5rem;
+    width:52.8125rem;
+    text-align:start;
+}
+.event-news-container{
+    grid-template-rows:36rem 36rem;
+    grid-template-columns:70.0625rem;
+    gap:7rem;
+}
+.earth-day-event-container{
+    grid-template-columns:36rem 28rem;
+    grid-template-rows:36rem;
+    gap:6rem;
+    justify-self:space-between;
+}
+.earth-day-news-container{
+    grid-template-columns:28rem 36rem;
+    grid-template-rows:36rem;
+    gap:6rem;
+}
+.event-topic,.news-topic{
+    top:0;
+    margin-top:0;
+    align-self:start;
+}
+.action-image{
+    width:36rem;
+    height:36rem;
+}
+.earth-day-box{
+    gap:3rem;
+    text-align:start;
+}
+.earth-day-topic{
+    font-size:2.75rem;
+}
+.earth-day-para{
+    font-size:1.25rem;
+}
+.news-read-more-button,.action-read-more-button{
+    align-self:start;
+}
+.news-image{
+    grid-column:2;
+    grid-row:1;
+    width:36rem;
+    height:36rem;
+}
+.earth-day-news-container>.earth-day-box{
+    grid-column:1;
+    grid-row:1;
+}
+
+/*subscribe*/
+.subscription-container{
+    padding:4.3125rem 10rem 5rem 10rem;
+    width:70rem;
+    flex-direction:row;
+    gap:2rem;
+}
+.about-subscription{
+    width:34rem;
+    font-size:1.4rem;
+    margin-left:0;
+}
+.subscribe-form{
+    width:34rem;
+    height:4.375rem;
+}
+.subscription-email-input{
+    width:22rem;
+    height:3rem;
+}
+.subscribe-button{
+    width:10rem;
+    height:3rem;
+}
+
+/*footer*/
+.footer{
+    padding:7.1125rem 9.875rem 7.5119rem 10rem;
+    grid-template-columns:12rem 8.5rem 8.5rem 8.5rem 11.3125rem;
+    grid-template-rows:8.5rem;
+    justify-content:space-around;
+    width:70rem;
+}
+.footer-topic{
+    font-size:1.375rem;
+}
+.contact-us-container,.follow-us-container,.learn-more-container{
+    justify-self:start;
+}
+.follow-us-topic::after,.learn-more-topic::after,.contact-us-topic::after{
+    content: "";
+    display: block;
+    width: 100%;
+    height: 0.125rem;
+    background-color:#354463;
+    margin: 0.75rem 0;
+}
+.contact-us-container, .follow-us-container, .learn-more-container {
+    gap:0;
+}
+.learn-more-container{
+    grid-column:3;
+    grid-row:1;
+}
+.support-indian-farmers-topic{
+    grid-row:1;
+    grid-column:5;
+}
+}

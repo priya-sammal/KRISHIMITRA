@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Crop Prediction</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="heading">
+        <a href="index.html">
+            <div class="heading-topic" data-key="siteName">KrishiMitra</div>
+            <div class="subheading-topic" data-key="subtitle">Smart, inclusive farm guidance</div>
+        </a>
+
+        <div class="heading-list">
+            <ul class="heading-list-ul">
+                <li><a href="about-us/index.html" data-key="navAbout">About us</a></li>
+                <li><a href="#jump-to-stories" data-key="navStories">Our Stories</a></li>
+                <li><a href="#jump-to-news" data-key="navNews">News And Events</a></li>
+            </ul>
+        </div>
+
+        <div class="donate-button"><a href="Donation/index.html">D  onate</a></div>
+        
+        <div class="change-language">
+            <div class="english common-lang">En</div>
+            <div class="hindi hidden common-lang">Hi</div>
+        </div>
+    </div>
+
+  <div class="main-wrap">
+    <div class="card">
+      <h1>Crop Prediction</h1>
+      <p class="lead">Set soil & weather values using sliders. Click Predict</p>
+
+      <div id="sliders" class="sliders"></div>
+
+      <div class="actions">
+        <button id="predictBtn" class="btn primary">Predict</button>
+        <button id="resetBtn" class="btn">Reset</button>
+      </div>
+
+    </div>
+
+    <div class="card result-card">
+      <h2>Prediction</h2>
+      <div id="results" class="results">Set values using slider and click Predict.</div>
+      <div id="meta" class="meta"></div>
+    </div>
+</div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
