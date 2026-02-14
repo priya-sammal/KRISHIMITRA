@@ -34,7 +34,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 model = RandomForestClassifier(n_estimators=200, random_state=42)
 model.fit(X_train, y_train)
 
-print("✅ Fertilizer model training complete!")
+print("Fertilizer model training complete!")
 
 # Save model + encoders
 with open(os.path.join(HERE, "fertilizer_model.pkl"), "wb") as f:
@@ -49,4 +49,4 @@ with open(os.path.join(HERE, "soil_encoder.pkl"), "wb") as f:
 with open(os.path.join(HERE, "fertilizer_encoder.pkl"), "wb") as f:
     pickle.dump(fert_enc, f)
 
-print("✅ Model and encoders saved!")
+print(" Model and encoders saved!")
