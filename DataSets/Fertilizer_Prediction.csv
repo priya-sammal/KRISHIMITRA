@@ -1,201 +1,1171 @@
 Temperature,Humidity,Rainfall,pH,N,P,K,Soil,Crop,Fertilizer
-24.87,82.84,295.61,6.59,4,2,2.5,Clayey,rice,DAP and MOP
-28.69,96.65,178.96,6.08,4,4,4,laterite,Coconut,Good NPK
-20.27,81.64,270.44,5.01,4,4,2,silty clay,rice,MOP
-25.07,95.02,192.9,5.55,2,2.1,3.5,sandy,Coconut,Urea and DAP
-25.04,95.9,174.8,6.18,2,3.9,2.1,coastal,Coconut,Urea and MOP
-20.82,84.13,230.22,6.46,2.5,4,3,clay loam,rice,Urea 
-25.95,93.41,172.05,5.84,2.5,4,2,alluvial,Coconut,Urea and MOP
-26.49,80.16,242.86,6.98,4.2,2.3,3.2,Clayey,rice,DAP
-25.01,95.59,165.81,6,2,3.9,2.1,coastal,Coconut,Urea and MOP
-21.87,80.19,224.56,5.95,2.9,3.5,3.9,silty clay,rice,Urea 
-28.96,95.16,222.8,6.17,4,2,2.5,alluvial,Coconut,DAP and MOP
-26.3,99.66,215.92,5.69,4,2,3,laterite,Coconut,DAP
-27.51,94.19,156.67,5.56,4,4,4,sandy,Coconut,Good NPK
-23.68,81.04,233.7,5.18,4,2,2.5,clay loam,rice,DAP and MOP
-25.52,94.38,178.73,6.27,2.5,4,2,sandy,Coconut,Urea and MOP
-25.79,82.11,243.51,6.95,2.2,3.5,3.9,Clayey,rice,Urea 
-24.28,80.3,231.09,7.04,4,2,3,silty clay,rice,DAP
-26.59,90.99,178.81,5.56,2.5,2,3,coastal,Coconut,Urea and DAP
-28.11,90.02,172.48,6.39,2,2.1,3.5,laterite,Coconut,Urea and DAP
-28.36,91.65,160.73,5.54,2,4,2.1,alluvial,Coconut,Urea and MOP
-26.4,81.06,223.37,6.35,4,4,2,clay loam,rice,MOP
-21.72,80.24,277.96,6.5,4,2,2.5,Clayey,rice,DAP and MOP
-28.28,93.65,171.95,6.1,4,4,4,sandy,Coconut,Good NPK
-21.97,81.9,227.36,5.66,4.2,2.3,3.2,silty clay,rice,DAP
-28.97,98.1,213.9,5.5,2.2,3.5,3.9,coastal,Coconut,Urea 
-27.13,95.24,204.72,6.23,4.2,2.3,3.2,laterite,Coconut,DAP
-27.08,97,171.76,5.95,2.5,2,3,alluvial,Coconut,Urea and DAP
-27.31,99.97,201.83,5.83,2.2,3.5,3.9,clay loam,rice,Urea 
-26.53,81.42,264.61,5.39,4,4,2,Clayey,rice,MOP
-20.28,82.12,191.95,7.24,2,2.1,3.5,sandy,Coconut,Urea and DAP
-24.89,81.98,185.95,5.01,2.5,2,3,silty clay,rice,Urea and DAP
-25.79,93.84,152.42,5.78,4,4,4,coastal,Coconut,Good NPK
-29.71,96.3,209.85,6.37,4,4,1.9,alluvial,Coconut,MOP
-25.1,92.36,157.76,6.05,2,3.9,2.1,laterite,Coconut,Urea and MOP
-26.54,84.67,183.62,7.07,4,2,2.5,clay loam,rice,DAP and MOP
-22.73,82.17,260.89,7.3,4,2,2.5,Clayey,rice,DAP and MOP
-27.59,92.49,162.84,6.21,4,4,4,sandy,Coconut,Good NPK
-24.53,82.74,224.68,6.36,4.2,2.3,3.2,silty clay,rice,DAP
-28.48,97.77,160.39,5.82,2.5,4,2,coastal,Coconut,Urea and MOP
-25.55,96.93,191.3,6.16,4,2,3,laterite,Coconut,DAP
-28.88,95.11,145.06,6.2,2,2.1,3.5,alluvial,Coconut,Urea and DAP
-26.09,80.38,182.9,5.71,4,4,4,clay loam,rice,Good NPK
-20.13,81.6,262.72,7.63,4,4,2,Clayey,rice,MOP
-28.39,99.19,189.67,5.56,2,2.1,3.5,sandy,Coconut,Urea and DAP
-23.43,83.06,219.9,5.29,4,2,2.5,silty clay,rice,DAP and MOP
-24.96,84.48,196.96,5.21,4.2,2.3,3.2,coastal,Coconut,DAP
-27.54,94.59,150.2,6.36,4,4,4,laterite,Coconut,Good NPK
-27.57,94.9,145.93,5.71,2,3.9,2.1,alluvial,Coconut,Urea and MOP
-29.87,91.15,192.77,6.31,4,4,4,clay loam,rice,Good NPK
-21.77,80.32,226.66,7.04,2.9,3.5,3.9,Clayey,rice,Urea 
-27.06,91.11,224.7,5.68,4,2,3,sandy,Coconut,DAP
-23.79,80.42,206.26,6.97,2.5,4,3,silty clay,rice,Urea 
-28.13,95.65,151.08,5.69,2,2.1,3.5,coastal,Coconut,Urea and DAP
-27.31,99.97,201.83,5.83,2.2,3.5,3.9,laterite,Coconut,Urea 
-29.29,91.96,132.15,5.87,2,2.1,3.5,alluvial,Coconut,Urea and DAP
-26.29,84.57,257.49,7.02,2.2,3.5,3.9,clay loam,rice,Urea 
-25.76,83.52,245.66,5.88,4,2,2.5,Clayey,rice,DAP and MOP
-27.64,99.35,157.92,6.38,4,4,4,sandy,Coconut,Good NPK
-22.68,83.73,200.91,7.52,4,2,2.5,silty clay,rice,DAP and MOP
-28.74,93.4,156.77,5.62,2,4,2.1,coastal,Coconut,Urea and MOP
-26.61,96.97,191.01,6.14,4,2,2.5,laterite,Coconut,DAP and MOP
-25.76,94.66,131.25,5.76,2.5,2,3,alluvial,Coconut,Urea and DAP
-26.92,91.2,194.9,5.57,4,4,4,clay loam,rice,Good NPK
-23.98,81.45,250.08,7.5,4,4,2,Clayey,rice,MOP
-28.06,98.37,171.65,5.87,2,3.9,2.1,sandy,Coconut,Urea and MOP
-22.68,83.46,194.27,6.6,4,2,2.5,silty clay,rice,DAP and MOP
-25.85,90.93,147.89,5.86,4,4,4,coastal,Coconut,Good NPK
-27.19,92.2,141.32,6.14,2.5,2,3,laterite,Coconut,Urea and DAP
-26.45,93.45,149.22,5.9,2.2,3.5,3.9,alluvial,Coconut,Urea 
-23.36,83.6,188.41,5.33,2.5,4,2,clay loam,rice,Urea and MOP
-29.13,91.31,157.24,5.74,4,4,4,sandy,Coconut,Good NPK
-20.41,82.21,245.15,7.59,4,4,2,Clayey,rice,MOP
-25.6,80.15,200.83,6.9,4,4,2,silty clay,rice,MOP
-29.7,95.21,148.3,6.34,2,2.1,3.5,coastal,Coconut,Urea and DAP
-28.3,95.41,182.45,6.14,2,3.9,2.1,laterite,Coconut,DAP and MOP
-23.86,82.23,195.09,7.38,2,4,2.1,alluvial,Coconut,Urea and MOP
-26.93,81.91,290.68,7.07,2.2,3.5,3.9,clay loam,rice,Urea 
-26.92,99.85,225.63,6.32,2.5,4,3,sandy,Coconut,Urea 
-20.28,82.89,241.97,5.72,4,4,2,Clayey,rice,MOP
-29.26,95.11,184.76,5.54,4.2,2.3,3.2,silty clay,rice,DAP
-27.8,99.65,181.69,6.38,4,2,3,coastal,Coconut,DAP
-27.01,96.46,144.33,5.63,4,2,2.5,laterite,Coconut,DAP and MOP
-25.07,93.31,134.84,6.21,2,3.9,2.1,alluvial,Coconut,Urea and MOP
-26.04,84.97,186.75,6,2.5,4,2,clay loam,rice,Urea and MOP
-27.1,93.7,150.95,5.55,4,4,4,sandy,Coconut,Good NPK
-20.88,82,202.94,6.5,2.5,4,3,Clayey,rice,Urea 
-21.14,80.34,198.67,5.59,2.5,4,3,silty clay,rice,Urea 
-28.83,92.17,145.42,6,4,4,4,coastal,Coconut,Good NPK
-27.75,95.95,131.09,5.56,2.5,4,3,laterite,Coconut,Urea 
-26.14,93.28,195.41,6.07,4,4,4,clay loam,rice,Good NPK
-29.18,92.73,204.96,6.03,2.5,4,2,alluvial,Coconut,Urea and MOP
-26.38,91.5,167.05,5.55,2,2.1,3.5,sandy,Coconut,Urea and DAP
-28.27,96.94,198.82,6.07,4,2,2.5,Clayey,rice,DAP and MOP
-26.58,95.79,171.63,6.25,4,4,2.1,coastal,Coconut,MOP
-26.31,82.37,265.54,7.22,4,2,2.5,silty clay,rice,DAP and MOP
-24.01,82.06,185.28,6.98,2,4,2.1,laterite,Coconut,Urea and MOP
-26.73,81.79,280.4,7.87,4.2,2.3,3.2,clay loam,rice,DAP
-28.44,95.88,203.93,5.67,4,4,2,sandy,Coconut,MOP
-21.33,80.47,185.5,6.44,4.2,2.3,3.2,Clayey,rice,DAP
-25.95,94.74,144.16,6.47,2,4,2.1,coastal,Coconut,Urea and MOP
-22.78,82.07,248.72,6.43,4.2,2.3,3.2,silty clay,rice,DAP
-29.03,90.79,205.57,5.89,2,2.1,3.5,laterite,Coconut,Urea and DAP
-25.61,94.31,224.32,5.74,2.5,2,3,alluvial,Coconut,Urea and DAP
-22.23,81.86,278.08,6.94,4,2,3,clay loam,rice,DAP
-28.99,90.74,148.84,5.72,4,4,4,sandy,Coconut,Good NPK
-24.9,80.53,183.68,6.13,4,2,3,Clayey,rice,DAP
-27.15,91.49,164.92,6.41,2.5,4,3,coastal,Coconut,Urea 
-25.08,80.52,257,7.78,4.2,2.3,3.2,silty clay,rice,DAP
-25.57,97.61,199.79,6.44,4,4,4,laterite,Coconut,Good NPK
-25.28,80.54,220.12,5.45,2,4,2.1,clay loam,rice,Urea and MOP
-27.56,99.98,174.63,5.74,4,4,2,sandy,Coconut,MOP
-21.32,83,192.32,7.28,2.5,4,3,Clayey,rice,Urea 
-25.52,94.33,135.13,6.02,4,4,2.2,coastal,Coconut,MOP
-24.53,80.54,260.26,7.07,4.2,2.3,3.2,silty clay,rice,DAP
-22.09,83.47,231.74,6.37,4,4,4,clay loam,rice,Good NPK
-26.76,92.86,224.59,6.42,2,4,2.1,laterite,Coconut,Urea and MOP
-27.46,92.91,142.14,5.84,2,3.9,2.1,coastal,Coconut,Urea and MOP
-25.43,82.95,195.36,5.76,4,4,4,silty clay,rice,Good NPK
-23.84,83.88,241.2,7.47,2.5,2,3,clay loam,rice,Urea and DAP
-28.84,99.64,224.4,6.22,2,3.9,2.1,laterite,Coconut,Urea and MOP
-29.18,90.27,188.93,6.01,2.2,3.5,3.9,Clayey,rice,Urea 
-26.93,98.8,166.57,5.67,4.2,2.3,3.2,sandy,Coconut,DAP
-29.52,92.56,131.21,6.46,4,4,4,coastal,Coconut,Good NPK
-21.67,80.71,210.81,7.06,2,2.1,3.5,silty clay,rice,Urea and DAP
-23.84,83.88,241.2,7.47,2.5,2,3,clay loam,rice,Urea and DAP
-28.44,91.81,145.54,5.57,4,4,4,sandy,Coconut,Good NPK
-25.49,81.41,182.65,5.94,4,2,2.5,Clayey,rice,DAP and MOP
-26.14,96.39,131.34,6.34,4,4,2.3,coastal,Coconut,MOP
-22.3,80.64,197.98,6.04,2,4,2.1,silty clay,rice,Urea and MOP
-26.8,82.15,193.35,5.95,2.5,2,3,sandy,Coconut,Urea and DAP
-24.46,82.75,182.56,6.74,2,4,2.1,coastal,Coconut,Urea and MOP
-23.06,83.37,251.05,7.07,2.5,4,3,Clayey,rice,Urea 
-26.36,84.04,271.36,6.29,4,2,3,silty clay,rice,DAP
-23.64,80.29,263.11,5.01,2.5,2,3,Clayey,rice,Urea and DAP
-22.18,80.33,200.09,6.36,2,2.1,3.5,coastal,Coconut,Urea and DAP
-20.05,80.35,208.58,6.77,2.5,4,2,silty clay,rice,Urea and MOP
-26.11,91.52,134.13,5.85,2.5,2,3,sandy,Coconut,Urea and DAP
-25.03,91.54,179.82,6.29,4,2,2.5,sandy,Coconut,DAP and MOP
-25.55,91.64,212.87,5.7,2.5,2,3,coastal,Coconut,Urea and DAP
-24.98,83.89,204.8,6.88,4,4,4,Clayey,rice,Good NPK
-20.78,84.5,240.08,6.24,2.5,4,2,silty clay,rice,Urea and MOP
-29.53,91.91,194.31,6.12,4,2,2.5,Clayey,rice,Good NPK
-28.94,93,191.77,5.76,4,4,2.5,sandy,Coconut,MOP
-29.38,93.28,218.52,6.37,2.5,2,3,coastal,Coconut,Urea and DAP
-23.24,84.59,233.05,7.78,2.5,2,3,silty clay,rice,Urea and DAP
-26.53,80.12,218.92,6.16,2,2.1,3.5,Clayey,rice,Urea and DAP
-24.64,80.41,253.72,7.73,2.5,4,2,silty clay,rice,Urea and MOP
-29.57,91.41,224.83,5.83,2.5,2,3,coastal,Coconut,Urea and DAP
-26.52,98.38,144.63,5.59,4,4,4,sandy,Coconut,Good NPK
-26.31,98.62,208.12,5.8,4,2,2.5,coastal,Coconut,DAP and MOP
-26.46,83.86,248.23,7.55,4,2,3,Clayey,rice,DAP
-25.74,83.88,233.13,6.15,2.5,2,3,silty clay,rice,Urea and DAP
-28.29,97,142.94,5.97,4,4,4,sandy,Coconut,Good NPK
-25.39,98.09,218.08,5.58,2,2.1,3.5,coastal,Coconut,Urea and DAP
-23.45,84.79,283.93,6.22,2.5,4,2,silty clay,rice,Urea and MOP
-22.71,82.64,271.32,5.7,2.2,3.5,3.9,Clayey,rice,Urea 
-23.43,80.57,269.5,6.36,2,2.1,3.5,Clayey,rice,Urea and DAP
-25.67,80.66,209.59,6.95,2,4,2,silty clay,rice,Urea and MOP
-26.51,94.48,199.88,6.14,4,4,4,sandy,Coconut,Good NPK
-26,94.8,209.54,6.33,2,3.9,2.1,coastal,Coconut,Urea and MOP
-26.45,98.3,221.23,6.01,4,4,4,coastal,Coconut,Good NPK
-29.01,94.01,150.05,6.28,4,4,2,sandy,Coconut,MOP
-21.45,84.94,272.2,5.82,2.5,2,3,silty clay,rice,Urea and DAP
-20.62,83.77,279.55,6.93,4,4,4,Clayey,rice,Good NPK
-26.8,80.89,284.44,5.11,2.5,4,2,Clayey,rice,Urea and MOP
-21.95,80.97,213.36,6.01,2,4,2.1,silty clay,rice,Urea and MOP
-27.64,95.49,205.55,5.86,4,4,4,sandy,Coconut,Good NPK
-29.7,95.66,215.2,6.08,4,4,4,coastal,Coconut,Good NPK
-21.84,80.73,202.38,6.95,4,4,4,Clayey,rice,Good NPK
-26.76,81.18,272.3,5.96,4.2,2.3,3.2,silty clay,rice,DAP
-26.87,91.73,214.41,6.1,4,4,4,coastal,Coconut,Good NPK
-28.03,95.02,218.01,5.96,2,4,2.1,sandy,Coconut,Urea and MOP
-29.2,95.67,211.25,5.96,4,4,4,sandy,Coconut,Good NPK
-23.48,81.33,224.06,7.38,2,2.1,3.5,silty clay,rice,Urea and DAP
-26.88,81.46,194.58,6.14,2,2.1,3.5,coastal,Coconut,Urea and DAP
-21.53,82.14,295.92,6.5,2.5,4,3,Clayey,rice,Urea 
-21.59,82.79,276.66,6.25,4.2,2.3,3.2,silty clay,rice,DAP
-22.7,82.81,257,6.03,4.2,2.3,3.2,Clayey,rice,DAP
-28.57,95.68,134.84,6.44,4.2,2.3,3.2,sandy,Coconut,DAP
-21.02,82.95,298.4,7.42,2.5,2,3,silty clay,rice,Urea and DAP
-23.22,83.03,221.21,6.34,2,4,2.1,Clayey,rice,Urea and MOP
-27.02,95.72,147.17,6.23,2,3.9,2.1,sandy,Coconut,Urea and MOP
-23,82.32,263.96,7.84,4,2,3,Clayey,rice,DAP
-21.05,82.68,233.11,6.25,2.5,2,3,silty clay,rice,Urea and DAP
-27.02,95.72,147.17,6.23,2,3.9,2.1,sandy,Coconut,Urea and MOP
-24.44,82.45,267.98,5.95,2.5,2,3,Clayey,rice,Urea and DAP
-25.16,83.12,231.38,5.07,2.5,4,2,silty clay,rice,Urea and MOP
-27.15,96.66,149.24,6.03,2.5,2,3,sandy,Coconut,Urea and DAP
-23.86,83.15,285.25,5.56,4.2,2.3,3.2,silty clay,rice,DAP
-20.08,83.29,263.64,5.74,2.5,4,2,Clayey,rice,Urea and MOP
-26.07,96.7,143.53,5.98,2,3.9,2.1,sandy,Coconut,Urea and MOP
-26.19,96.97,135.42,5.61,4.2,2.3,3.2,sandy,Coconut,DAP
-21.41,83.33,287.58,5.94,2.2,3.5,3.9,Clayey,rice,Urea 
-25.63,83.53,209.9,5.53,2.5,4,2,silty clay,rice,Urea and MOP
-24.52,83.54,230.45,6.69,2.5,4,2,Clayey,rice,Urea and MOP
-23.58,83.59,291.3,5.85,4,2,3,silty clay,rice,DAP
-25.66,83.47,217.38,7.12,2,3.9,2.1,Clayey,rice,Urea and MOP
-24.17,83.73,257.03,5.58,2,2.1,3.5,silty clay,rice,Urea and DAP
-26.23,83.84,286.51,5.54,4.2,2.3,3.2,silty clay,rice,DAP
-23.83,84.81,298.56,6.27,2.5,4,2,silty clay,rice,Urea and MOP
+29.6,51.0,112.3,5.9,1,5,1,clayey,rice,Urea and MOP
+20.5,53.7,104.2,6.7,5,2,5,clayey,rice,Urea and MOP
+23.3,73.6,213.8,5.5,2,4,3,clayey,rice,Compost
+22.3,88.3,124.0,5.7,1,3,3,clayey,rice,Compost
+32.1,79.2,161.9,7.4,4,1,5,clayey,rice,Compost
+32.4,74.7,223.7,6.7,1,1,2,silty clay,rice,Compost
+34.8,84.2,224.6,6.3,4,3,2,silty clay,rice,Vermicompost
+25.3,76.8,193.3,6.9,1,5,2,silty clay,rice,MOP
+22.5,65.2,248.0,6.8,5,2,3,silty clay,rice,Urea
+23.4,51.3,119.9,6.0,2,5,3,silty clay,rice,MOP
+29.8,65.8,233.8,6.4,3,2,2,sandy,rice,Compost
+31.2,67.1,170.9,6.2,2,5,4,sandy,rice,DAP
+31.3,84.4,89.0,5.8,4,5,1,sandy,rice,Urea and MOP
+25.7,89.8,160.5,7.4,1,1,5,sandy,rice,Compost
+31.5,63.6,115.8,5.8,1,3,5,sandy,rice,NPK
+27.6,54.3,178.8,7.2,5,5,2,clay loam,rice,NPK
+25.6,56.5,241.2,7.3,1,5,3,clay loam,rice,DAP and MOP
+20.3,87.2,227.0,7.2,3,2,1,clay loam,rice,MOP
+33.2,87.9,76.3,6.5,1,5,2,clay loam,rice,NPK
+29.9,87.9,91.4,6.6,5,4,2,clay loam,rice,MOP
+30.7,66.0,187.6,6.2,5,4,1,alluvial,rice,MOP
+23.4,63.5,171.8,6.0,2,1,1,alluvial,rice,Urea
+23.4,86.2,223.3,5.6,2,3,4,alluvial,rice,MOP
+28.1,78.9,227.7,6.7,2,4,4,alluvial,rice,MOP
+21.4,76.4,127.3,6.3,1,1,1,alluvial,rice,Urea and MOP
+30.9,82.0,80.8,5.9,5,4,2,laterite,rice,Urea and MOP
+22.8,68.5,226.2,5.7,5,1,1,laterite,rice,Urea
+34.5,87.1,221.3,5.8,4,4,2,laterite,rice,Urea and MOP
+33.5,56.6,60.4,6.3,4,3,4,laterite,rice,DAP and MOP
+22.3,61.9,244.1,6.7,5,1,3,laterite,rice,Urea
+20.8,69.1,234.7,6.6,1,5,1,coastal,rice,NPK
+21.0,52.7,223.7,6.3,5,2,5,coastal,rice,Urea
+29.3,66.8,170.9,6.5,3,2,3,coastal,rice,MOP
+24.0,55.2,182.6,6.4,1,1,4,coastal,rice,DAP
+21.1,58.5,110.4,7.4,1,2,3,coastal,rice,Compost
+22.4,83.3,193.7,6.7,5,1,5,black,rice,Compost
+34.0,54.1,226.8,6.0,1,5,2,black,rice,Compost
+24.2,58.4,125.1,6.9,3,5,4,black,rice,Compost
+33.6,83.8,77.5,6.3,3,1,1,black,rice,Vermicompost
+31.6,75.5,109.8,7.0,5,4,5,black,rice,Urea
+21.7,87.8,191.3,5.8,1,3,5,red,rice,NPK
+26.4,51.7,129.3,7.4,1,3,2,red,rice,MOP
+30.0,64.1,166.4,7.2,5,2,2,red,rice,NPK
+34.6,82.4,227.5,5.5,3,4,2,red,rice,Compost
+22.4,78.1,132.7,5.6,4,2,2,red,rice,DAP and MOP
+25.2,82.8,225.6,5.9,2,4,3,clayey,wheat,Compost
+33.0,88.7,113.0,6.8,4,5,3,clayey,wheat,Urea
+21.7,88.8,93.9,7.4,3,1,1,clayey,wheat,Urea and MOP
+25.2,81.5,142.9,7.5,1,4,5,clayey,wheat,MOP
+23.8,78.4,60.3,7.4,5,2,3,clayey,wheat,Urea and MOP
+21.0,76.6,122.7,6.1,1,3,5,silty clay,wheat,Compost
+30.0,63.0,192.5,6.6,2,4,4,silty clay,wheat,NPK
+29.2,62.0,164.1,5.5,3,2,4,silty clay,wheat,Vermicompost
+27.0,67.7,100.6,6.4,2,1,3,silty clay,wheat,Vermicompost
+21.4,88.1,104.6,6.1,2,2,1,silty clay,wheat,Urea
+23.7,69.0,221.5,5.6,4,5,2,sandy,wheat,Urea and MOP
+27.4,59.8,184.7,5.5,1,4,2,sandy,wheat,NPK
+32.1,77.8,148.3,6.6,1,4,2,sandy,wheat,DAP and MOP
+30.0,89.5,173.1,7.4,4,5,5,sandy,wheat,Urea and MOP
+32.5,71.9,230.5,7.0,4,4,3,sandy,wheat,MOP
+32.6,61.1,207.8,6.5,2,3,4,clay loam,wheat,DAP
+30.7,59.4,123.8,7.3,1,2,2,clay loam,wheat,MOP
+25.7,56.1,100.7,6.3,3,5,4,clay loam,wheat,Urea and MOP
+20.9,83.3,134.0,7.0,1,5,4,clay loam,wheat,DAP and MOP
+20.1,64.1,203.2,7.2,4,5,5,clay loam,wheat,MOP
+27.3,60.9,152.3,6.3,4,2,4,alluvial,wheat,NPK
+34.7,71.4,232.3,6.7,1,1,4,alluvial,wheat,NPK
+33.0,57.3,109.4,6.2,4,3,3,alluvial,wheat,Urea and MOP
+24.2,88.0,140.1,7.2,4,1,5,alluvial,wheat,Urea
+35.0,64.0,183.5,7.1,1,1,2,alluvial,wheat,MOP
+32.6,74.9,105.3,6.4,1,5,2,laterite,wheat,DAP and MOP
+30.5,80.7,91.9,6.7,1,2,3,laterite,wheat,DAP
+28.7,87.2,169.4,7.3,4,4,2,laterite,wheat,DAP
+28.9,83.2,106.1,6.9,3,5,1,laterite,wheat,Urea
+25.2,67.1,130.4,6.5,3,1,4,laterite,wheat,DAP and MOP
+21.6,88.4,180.8,7.2,2,4,2,coastal,wheat,Compost
+29.2,86.8,207.2,6.4,5,3,3,coastal,wheat,MOP
+32.5,53.5,227.5,6.0,4,5,5,coastal,wheat,Urea and MOP
+25.0,69.8,121.8,6.5,3,3,3,coastal,wheat,Compost
+33.2,78.0,112.5,5.5,2,1,2,coastal,wheat,Urea and MOP
+27.3,80.3,191.2,6.8,4,4,1,black,wheat,DAP
+24.4,66.2,106.2,6.8,3,4,5,black,wheat,Vermicompost
+26.4,79.8,122.9,6.9,3,3,3,black,wheat,MOP
+21.8,57.7,82.7,6.6,2,2,2,black,wheat,DAP and MOP
+24.1,73.6,204.4,6.7,1,2,3,black,wheat,MOP
+25.4,62.1,194.5,5.8,1,1,5,red,wheat,Compost
+30.5,55.1,225.0,6.5,1,5,3,red,wheat,DAP and MOP
+27.2,63.6,243.4,6.0,4,1,1,red,wheat,Urea and MOP
+27.4,73.1,190.4,5.8,5,3,1,red,wheat,MOP
+21.8,80.6,175.2,7.1,2,5,4,red,wheat,DAP and MOP
+33.6,61.9,171.8,6.4,5,5,1,clayey,maize,DAP
+34.2,58.3,100.1,6.8,2,2,2,clayey,maize,DAP
+22.3,66.3,191.0,6.4,1,2,3,clayey,maize,Compost
+30.5,68.2,190.6,7.3,5,2,4,clayey,maize,DAP
+28.2,75.9,232.6,7.2,1,1,2,clayey,maize,Compost
+28.9,83.0,235.0,6.4,4,3,4,silty clay,maize,Compost
+27.5,69.8,75.3,5.6,4,3,5,silty clay,maize,Compost
+20.4,59.2,188.1,7.2,5,1,3,silty clay,maize,Urea
+31.4,57.0,158.6,6.4,3,2,5,silty clay,maize,Urea and MOP
+29.5,69.7,77.3,6.2,3,3,1,silty clay,maize,NPK
+24.9,77.7,114.8,7.4,5,1,4,sandy,maize,DAP
+24.7,62.9,244.3,6.3,5,1,5,sandy,maize,DAP and MOP
+26.2,57.5,128.7,7.0,4,1,2,sandy,maize,Compost
+28.2,87.1,143.2,6.9,1,1,5,sandy,maize,MOP
+30.6,62.4,62.6,6.3,2,1,4,sandy,maize,DAP
+29.7,56.2,237.2,6.1,3,4,4,clay loam,maize,DAP and MOP
+23.7,72.1,132.9,7.3,5,2,1,clay loam,maize,Compost
+31.6,84.2,124.6,7.1,3,1,3,clay loam,maize,Compost
+32.6,73.2,185.4,7.2,4,5,4,clay loam,maize,Vermicompost
+25.0,80.5,131.7,7.4,2,2,5,clay loam,maize,Urea and MOP
+23.5,81.0,68.3,7.0,4,4,2,alluvial,maize,DAP and MOP
+34.5,55.0,243.4,6.2,1,4,1,alluvial,maize,DAP and MOP
+20.2,55.8,225.5,7.4,1,4,3,alluvial,maize,Vermicompost
+29.3,65.9,75.3,6.2,5,4,3,alluvial,maize,DAP and MOP
+33.1,51.4,73.0,6.8,3,2,1,alluvial,maize,Urea and MOP
+34.7,80.4,193.7,5.7,2,3,1,laterite,maize,Urea
+24.9,52.2,128.1,6.4,2,5,4,laterite,maize,NPK
+22.5,53.2,225.5,6.7,2,4,5,laterite,maize,NPK
+23.5,75.5,147.3,6.8,4,3,5,laterite,maize,NPK
+21.1,87.8,247.7,6.1,4,3,4,laterite,maize,Compost
+23.0,65.4,151.8,6.0,5,3,5,coastal,maize,Compost
+34.9,61.8,245.8,6.8,3,1,5,coastal,maize,Urea
+33.7,79.8,218.2,7.3,2,5,3,coastal,maize,MOP
+29.5,74.8,188.8,6.9,2,1,1,coastal,maize,Compost
+31.8,51.3,129.3,5.8,3,3,4,coastal,maize,NPK
+23.0,81.5,226.5,6.2,5,3,2,black,maize,Compost
+33.7,87.8,243.8,6.1,3,1,4,black,maize,DAP
+22.1,88.7,223.4,6.9,4,5,3,black,maize,DAP
+31.9,50.6,161.9,6.4,3,5,4,black,maize,Vermicompost
+21.6,59.4,64.8,7.3,5,3,5,black,maize,MOP
+29.7,75.4,148.2,6.9,4,1,2,red,maize,Urea
+34.2,62.2,153.6,5.7,5,2,4,red,maize,DAP and MOP
+25.6,88.0,192.3,6.6,5,2,4,red,maize,DAP
+32.5,74.6,238.4,6.1,3,2,4,red,maize,DAP and MOP
+34.3,84.2,78.9,6.9,5,3,1,red,maize,Urea and MOP
+24.1,88.7,240.3,7.1,1,2,5,clayey,barley,Urea
+20.8,63.3,247.9,7.1,2,1,5,clayey,barley,MOP
+28.8,82.5,104.3,7.0,5,1,3,clayey,barley,NPK
+34.8,71.6,211.7,5.7,1,2,1,clayey,barley,Vermicompost
+31.8,59.5,121.5,5.8,1,2,4,clayey,barley,DAP
+31.2,69.0,207.8,6.5,1,4,5,silty clay,barley,MOP
+34.2,51.7,208.8,7.2,5,3,4,silty clay,barley,Urea
+20.9,69.2,136.3,6.9,4,4,1,silty clay,barley,DAP
+24.8,55.9,84.0,6.7,5,5,3,silty clay,barley,Urea and MOP
+34.9,71.2,146.2,6.7,1,1,5,silty clay,barley,MOP
+26.5,85.5,138.6,7.2,4,4,1,sandy,barley,Vermicompost
+26.4,76.6,131.1,5.8,4,1,1,sandy,barley,DAP
+21.4,53.9,200.4,7.1,5,1,5,sandy,barley,Vermicompost
+30.1,66.4,226.0,7.4,4,1,3,sandy,barley,Compost
+25.3,73.1,100.4,6.8,2,1,3,sandy,barley,Vermicompost
+21.7,61.1,103.0,6.4,5,5,5,clay loam,barley,Urea
+29.1,76.3,191.8,5.6,3,3,3,clay loam,barley,Vermicompost
+20.1,84.8,167.6,6.3,2,1,1,clay loam,barley,MOP
+25.6,68.1,89.9,6.1,3,5,5,clay loam,barley,DAP
+33.3,56.2,203.3,5.6,1,3,4,clay loam,barley,Urea and MOP
+27.3,67.7,111.9,7.0,1,3,4,alluvial,barley,DAP
+24.2,77.1,152.5,6.8,1,2,4,alluvial,barley,Urea
+20.1,62.1,100.1,5.8,3,3,3,alluvial,barley,DAP
+20.1,79.9,93.4,6.3,2,5,5,alluvial,barley,Vermicompost
+21.1,84.5,68.0,5.5,1,3,5,alluvial,barley,Urea and MOP
+28.6,78.4,139.4,5.7,1,3,2,laterite,barley,DAP and MOP
+32.5,86.8,76.7,7.2,2,4,5,laterite,barley,Urea and MOP
+27.9,65.8,119.0,6.2,3,2,1,laterite,barley,DAP
+28.0,57.8,207.5,6.2,2,2,1,laterite,barley,NPK
+23.8,56.9,89.0,7.0,1,2,4,laterite,barley,DAP and MOP
+31.3,80.4,145.3,7.3,5,5,3,coastal,barley,Vermicompost
+22.3,52.7,144.0,6.1,3,5,1,coastal,barley,Vermicompost
+27.6,62.4,145.9,5.6,3,1,1,coastal,barley,Urea and MOP
+26.9,72.2,210.4,7.3,4,5,2,coastal,barley,Vermicompost
+29.1,70.1,242.0,6.4,3,1,5,coastal,barley,NPK
+20.6,78.3,248.3,6.5,5,2,3,black,barley,Vermicompost
+33.8,65.5,207.1,6.9,1,3,1,black,barley,Vermicompost
+21.4,77.1,114.0,6.9,5,2,3,black,barley,DAP
+28.7,55.7,126.5,7.4,4,2,5,black,barley,DAP
+24.6,65.1,210.4,7.1,5,1,4,black,barley,Vermicompost
+20.3,62.4,240.7,6.2,4,2,2,red,barley,NPK
+22.3,61.8,209.7,6.5,5,5,1,red,barley,Vermicompost
+33.1,74.7,173.5,5.8,2,5,2,red,barley,DAP and MOP
+20.7,64.6,196.7,7.4,5,3,4,red,barley,MOP
+28.0,62.4,213.6,6.4,2,3,5,red,barley,DAP and MOP
+26.9,61.3,132.6,6.6,2,2,5,clayey,millet,NPK
+33.1,52.1,151.3,6.2,1,5,1,clayey,millet,Compost
+21.3,56.4,145.4,6.5,4,1,2,clayey,millet,DAP and MOP
+33.3,87.2,138.8,6.3,3,2,4,clayey,millet,DAP
+25.6,51.1,236.9,7.2,3,2,2,clayey,millet,Urea
+24.3,83.2,192.3,5.8,4,4,5,silty clay,millet,Urea
+33.6,50.8,101.0,5.8,5,5,4,silty clay,millet,DAP
+31.6,59.5,83.2,6.0,5,4,1,silty clay,millet,DAP
+32.6,70.0,161.9,6.8,5,2,2,silty clay,millet,Compost
+26.4,74.6,105.7,6.3,1,5,3,silty clay,millet,DAP
+34.3,71.8,209.4,6.5,1,4,4,sandy,millet,Urea
+29.5,89.2,108.2,5.5,1,3,2,sandy,millet,DAP
+31.6,79.4,123.2,5.6,5,3,2,sandy,millet,DAP and MOP
+34.7,69.1,94.6,5.8,4,1,3,sandy,millet,MOP
+20.7,58.0,68.0,7.4,5,4,5,sandy,millet,DAP and MOP
+23.8,80.1,96.3,6.2,1,3,3,clay loam,millet,DAP
+32.0,67.5,136.0,6.4,4,3,2,clay loam,millet,DAP and MOP
+30.4,64.7,211.5,6.0,1,4,1,clay loam,millet,Urea and MOP
+29.0,82.9,163.6,6.1,1,3,3,clay loam,millet,Compost
+26.7,78.7,91.7,6.4,4,1,3,clay loam,millet,Urea and MOP
+24.1,89.2,240.1,5.7,4,3,5,alluvial,millet,NPK
+34.3,55.7,175.4,7.1,1,2,1,alluvial,millet,MOP
+31.7,64.7,132.7,6.6,5,2,4,alluvial,millet,Vermicompost
+25.6,80.5,169.0,6.6,4,3,3,alluvial,millet,MOP
+34.4,51.0,95.3,6.5,5,1,3,alluvial,millet,Compost
+30.6,58.6,176.3,6.9,4,2,1,laterite,millet,NPK
+32.8,68.1,230.7,6.4,1,3,3,laterite,millet,DAP
+28.2,61.6,117.0,5.8,2,3,5,laterite,millet,MOP
+21.8,58.0,86.4,7.1,1,3,5,laterite,millet,Vermicompost
+27.0,89.3,84.7,7.3,1,3,4,laterite,millet,DAP and MOP
+27.9,80.8,216.4,5.6,3,1,4,coastal,millet,DAP and MOP
+30.2,63.8,226.8,7.1,5,2,2,coastal,millet,Urea and MOP
+27.5,84.7,218.0,6.5,3,2,2,coastal,millet,Vermicompost
+34.0,59.0,240.0,6.5,3,1,3,coastal,millet,MOP
+29.5,72.0,83.8,6.1,5,1,5,coastal,millet,NPK
+28.9,73.2,92.5,6.7,5,3,5,black,millet,Urea
+32.4,51.1,68.6,6.8,5,3,2,black,millet,Urea and MOP
+29.3,51.2,228.9,6.6,3,4,2,black,millet,Urea and MOP
+24.5,52.9,71.4,6.4,4,4,2,black,millet,Vermicompost
+29.1,62.5,196.5,7.0,3,4,2,black,millet,Vermicompost
+27.7,54.2,105.9,5.7,4,2,2,red,millet,DAP
+20.8,87.8,224.2,6.3,2,3,5,red,millet,Vermicompost
+22.8,56.4,249.2,6.4,3,4,1,red,millet,DAP
+34.2,70.2,243.7,5.9,3,1,1,red,millet,Compost
+27.4,85.3,184.3,6.4,5,1,1,red,millet,Urea and MOP
+22.0,60.6,129.5,6.3,1,4,1,clayey,sorghum,MOP
+25.4,61.5,133.4,6.4,5,3,5,clayey,sorghum,DAP
+21.9,53.9,130.9,7.5,5,3,2,clayey,sorghum,MOP
+29.0,66.1,67.6,5.6,3,4,5,clayey,sorghum,DAP and MOP
+22.2,85.7,86.6,7.4,3,2,4,clayey,sorghum,Compost
+28.9,70.3,156.8,6.5,5,3,4,silty clay,sorghum,Urea
+25.5,77.0,246.2,6.7,1,5,4,silty clay,sorghum,Compost
+34.5,81.3,207.5,6.7,1,5,4,silty clay,sorghum,NPK
+27.9,78.8,207.2,6.3,2,1,5,silty clay,sorghum,DAP
+22.9,67.6,139.6,6.3,2,4,5,silty clay,sorghum,DAP and MOP
+33.1,79.4,71.8,5.8,2,5,3,sandy,sorghum,DAP and MOP
+27.9,62.6,92.9,7.3,3,5,3,sandy,sorghum,Compost
+29.2,57.7,106.8,6.6,2,3,3,sandy,sorghum,MOP
+30.4,69.6,151.2,6.6,3,3,1,sandy,sorghum,Urea and MOP
+33.4,65.8,125.6,7.0,2,3,1,sandy,sorghum,Compost
+34.3,53.2,235.6,6.8,4,2,2,clay loam,sorghum,Compost
+34.0,77.8,86.1,6.7,5,2,2,clay loam,sorghum,Urea
+30.0,71.2,181.2,5.6,4,3,4,clay loam,sorghum,DAP
+30.2,55.5,243.3,7.5,2,4,4,clay loam,sorghum,DAP and MOP
+29.8,80.2,114.6,6.1,1,1,5,clay loam,sorghum,MOP
+28.0,78.9,238.0,7.3,2,4,2,alluvial,sorghum,Urea
+35.0,65.9,154.1,7.4,3,1,1,alluvial,sorghum,Compost
+28.5,54.3,246.8,6.1,5,5,4,alluvial,sorghum,NPK
+32.8,68.7,96.6,5.7,2,4,3,alluvial,sorghum,NPK
+20.2,63.5,116.1,6.8,2,2,5,alluvial,sorghum,Urea and MOP
+32.4,70.6,76.5,6.8,2,2,4,laterite,sorghum,Vermicompost
+34.0,50.3,132.9,6.4,3,3,3,laterite,sorghum,Urea
+23.9,64.4,104.9,6.8,4,3,2,laterite,sorghum,Urea and MOP
+30.3,86.9,228.7,7.0,1,3,3,laterite,sorghum,MOP
+23.3,55.3,89.1,7.0,5,3,4,laterite,sorghum,DAP and MOP
+31.4,82.1,216.9,7.0,5,1,5,coastal,sorghum,DAP and MOP
+27.9,64.5,234.3,5.7,5,5,2,coastal,sorghum,NPK
+22.5,84.2,143.9,6.9,5,4,1,coastal,sorghum,DAP and MOP
+32.1,68.1,157.5,6.4,1,5,4,coastal,sorghum,Compost
+30.8,65.8,215.1,7.0,5,1,1,coastal,sorghum,Urea and MOP
+25.2,52.6,248.9,7.4,1,4,1,black,sorghum,Compost
+26.1,80.8,205.5,7.5,4,3,4,black,sorghum,DAP and MOP
+33.0,86.3,131.4,6.9,5,2,3,black,sorghum,DAP
+22.7,71.5,160.5,7.0,2,1,1,black,sorghum,Compost
+26.9,78.8,140.6,6.3,2,2,4,black,sorghum,Vermicompost
+22.3,57.5,226.3,7.0,1,4,5,red,sorghum,Urea
+23.6,52.7,172.8,6.4,1,2,1,red,sorghum,Urea and MOP
+26.6,71.6,203.3,7.1,2,5,3,red,sorghum,MOP
+32.2,79.3,120.6,6.7,3,2,3,red,sorghum,NPK
+34.8,70.9,138.6,6.1,5,5,2,red,sorghum,Urea and MOP
+28.3,51.9,125.4,6.8,4,5,3,clayey,gram,Urea and MOP
+26.1,62.0,94.9,6.6,2,2,3,clayey,gram,NPK
+32.1,86.6,166.9,7.4,5,5,2,clayey,gram,Urea and MOP
+23.6,58.1,182.9,7.3,3,1,5,clayey,gram,MOP
+20.8,65.1,174.9,5.6,1,2,5,clayey,gram,MOP
+27.2,84.8,123.3,7.4,1,2,2,silty clay,gram,DAP
+31.2,80.2,233.7,6.9,2,4,2,silty clay,gram,Vermicompost
+31.6,65.2,161.4,6.2,3,3,5,silty clay,gram,DAP and MOP
+27.0,82.1,197.3,7.0,3,2,3,silty clay,gram,Vermicompost
+26.2,72.5,102.0,5.8,3,5,5,silty clay,gram,Urea and MOP
+24.4,57.8,103.7,6.6,2,4,5,sandy,gram,Vermicompost
+23.9,82.9,243.6,6.8,4,4,2,sandy,gram,Vermicompost
+22.5,78.8,152.8,7.3,5,1,5,sandy,gram,Urea
+32.6,53.0,215.4,5.6,1,4,2,sandy,gram,MOP
+21.0,56.0,101.6,6.4,1,5,5,sandy,gram,DAP and MOP
+29.9,50.6,161.1,6.3,1,5,3,clay loam,gram,Compost
+20.3,82.5,188.1,7.1,2,1,1,clay loam,gram,NPK
+23.6,74.8,108.0,6.2,4,1,3,clay loam,gram,Urea and MOP
+26.9,59.7,192.5,6.1,1,1,1,clay loam,gram,Urea and MOP
+25.7,72.1,70.7,5.5,2,1,4,clay loam,gram,Urea and MOP
+29.7,63.3,245.7,7.4,5,1,2,alluvial,gram,MOP
+33.5,77.7,167.7,6.0,1,3,5,alluvial,gram,Urea
+22.7,84.0,63.0,5.9,2,4,1,alluvial,gram,Compost
+22.4,59.6,218.6,6.3,5,3,4,alluvial,gram,NPK
+31.9,77.6,74.9,7.0,3,1,1,alluvial,gram,Urea and MOP
+23.5,53.0,175.0,6.7,5,4,3,laterite,gram,Urea
+29.5,81.3,145.6,6.0,5,4,4,laterite,gram,NPK
+30.2,76.4,76.3,6.7,2,1,1,laterite,gram,Compost
+22.3,78.5,180.4,7.0,3,3,1,laterite,gram,DAP
+20.1,62.3,128.4,6.0,2,1,2,laterite,gram,Urea and MOP
+26.7,72.2,137.5,5.6,3,5,1,coastal,gram,Vermicompost
+33.0,50.5,138.6,7.1,5,2,5,coastal,gram,NPK
+30.3,56.8,111.1,6.0,2,1,2,coastal,gram,Urea and MOP
+24.1,62.0,208.7,6.2,2,4,5,coastal,gram,MOP
+26.9,55.4,61.3,6.3,5,4,3,coastal,gram,DAP and MOP
+25.0,82.6,223.3,7.4,2,3,3,black,gram,MOP
+27.2,57.1,135.7,6.1,4,5,2,black,gram,Vermicompost
+25.6,82.7,134.7,5.7,5,2,5,black,gram,NPK
+30.2,72.0,241.1,6.4,2,4,3,black,gram,DAP
+32.3,81.8,137.7,6.5,3,2,3,black,gram,NPK
+30.7,81.6,74.1,7.5,4,5,4,red,gram,Urea and MOP
+28.2,81.6,128.3,7.3,5,5,1,red,gram,DAP
+31.5,76.3,127.5,6.8,1,5,4,red,gram,Vermicompost
+34.5,67.2,62.0,6.0,5,5,5,red,gram,MOP
+26.7,65.6,206.7,6.7,5,2,3,red,gram,Urea
+27.2,61.8,234.9,5.7,2,3,3,clayey,lentil,Vermicompost
+26.8,58.3,151.8,6.5,4,4,3,clayey,lentil,DAP
+24.5,82.4,81.9,7.2,1,2,2,clayey,lentil,NPK
+28.3,63.2,141.0,6.4,4,2,2,clayey,lentil,Urea and MOP
+25.9,79.5,227.8,6.4,4,4,1,clayey,lentil,MOP
+23.1,80.1,213.7,5.6,1,5,2,silty clay,lentil,Vermicompost
+24.9,68.3,109.8,7.2,5,3,5,silty clay,lentil,Urea and MOP
+29.2,73.5,126.1,7.2,5,2,3,silty clay,lentil,DAP
+30.1,62.5,105.3,5.7,3,2,5,silty clay,lentil,Urea and MOP
+26.3,55.5,132.9,5.9,5,2,5,silty clay,lentil,NPK
+27.3,55.6,119.8,6.4,1,3,1,sandy,lentil,DAP and MOP
+22.0,82.6,243.1,6.5,4,4,4,sandy,lentil,Urea and MOP
+30.7,67.8,91.8,6.6,2,3,1,sandy,lentil,Compost
+23.4,61.5,208.3,6.6,4,5,5,sandy,lentil,DAP
+28.6,60.7,163.2,7.5,5,1,4,sandy,lentil,MOP
+34.8,54.1,217.7,7.0,3,1,4,clay loam,lentil,Compost
+25.2,82.7,143.4,7.5,2,2,5,clay loam,lentil,Vermicompost
+32.9,74.4,141.4,6.7,2,2,1,clay loam,lentil,Vermicompost
+28.0,73.9,92.0,7.5,3,3,5,clay loam,lentil,Compost
+34.3,70.6,231.0,7.1,2,4,1,clay loam,lentil,Compost
+33.0,55.1,224.6,6.0,3,2,4,alluvial,lentil,DAP and MOP
+22.1,75.3,179.3,6.3,1,1,4,alluvial,lentil,Compost
+30.4,85.1,146.4,6.5,5,1,1,alluvial,lentil,DAP and MOP
+29.5,77.9,221.5,7.1,4,2,4,alluvial,lentil,MOP
+27.4,62.9,113.9,6.6,2,5,4,alluvial,lentil,Vermicompost
+33.4,80.5,68.7,6.8,4,1,1,laterite,lentil,NPK
+26.6,50.0,242.0,5.9,2,3,2,laterite,lentil,Compost
+21.4,64.4,75.7,6.8,2,1,4,laterite,lentil,Compost
+30.9,80.2,141.6,5.7,1,1,2,laterite,lentil,DAP and MOP
+21.2,73.7,158.7,6.4,1,3,1,laterite,lentil,Urea and MOP
+30.4,69.1,103.5,5.7,1,1,3,coastal,lentil,Vermicompost
+33.2,55.5,207.0,7.0,2,2,1,coastal,lentil,Urea
+29.2,56.6,126.7,5.9,2,4,5,coastal,lentil,DAP and MOP
+32.9,53.5,79.1,7.0,5,4,3,coastal,lentil,Urea and MOP
+24.7,55.6,112.6,5.7,5,5,5,coastal,lentil,Compost
+31.7,77.6,221.1,6.8,3,2,5,black,lentil,MOP
+31.2,61.8,70.4,7.3,2,4,4,black,lentil,DAP
+23.6,75.5,73.5,7.3,1,3,3,black,lentil,NPK
+25.8,83.6,140.0,6.6,2,4,1,black,lentil,Urea
+28.8,50.6,101.0,7.3,4,5,3,black,lentil,Urea and MOP
+26.4,66.1,181.7,6.6,2,3,1,red,lentil,Compost
+21.2,86.8,245.1,5.8,3,4,5,red,lentil,DAP
+24.7,67.5,241.2,6.0,2,1,4,red,lentil,DAP
+26.8,74.4,118.8,7.0,2,1,1,red,lentil,NPK
+30.5,56.6,241.1,6.5,3,2,3,red,lentil,NPK
+31.2,84.9,199.3,5.7,1,3,4,clayey,pigeonpea,Compost
+27.9,60.5,245.3,6.8,4,4,5,clayey,pigeonpea,Vermicompost
+20.8,84.4,91.7,5.8,1,5,1,clayey,pigeonpea,MOP
+31.1,50.1,223.2,5.5,1,4,3,clayey,pigeonpea,Urea and MOP
+33.8,57.2,242.5,5.6,4,2,3,clayey,pigeonpea,MOP
+26.2,78.8,111.5,5.7,3,1,5,silty clay,pigeonpea,Urea
+22.7,82.2,246.5,7.4,1,4,3,silty clay,pigeonpea,Compost
+24.9,72.1,61.5,5.9,5,3,5,silty clay,pigeonpea,MOP
+27.0,73.7,153.7,7.0,2,5,2,silty clay,pigeonpea,NPK
+20.1,66.4,104.3,6.2,1,3,1,silty clay,pigeonpea,Urea and MOP
+32.7,79.1,79.8,6.6,2,4,4,sandy,pigeonpea,Urea
+34.6,55.7,113.2,5.6,2,5,4,sandy,pigeonpea,Vermicompost
+26.9,79.9,170.3,6.5,4,1,5,sandy,pigeonpea,Urea
+26.5,88.6,105.0,6.0,3,4,3,sandy,pigeonpea,Vermicompost
+26.8,59.3,239.3,5.8,5,1,2,sandy,pigeonpea,DAP
+22.5,68.6,137.2,6.6,2,4,3,clay loam,pigeonpea,DAP and MOP
+24.0,54.8,89.9,6.9,5,1,2,clay loam,pigeonpea,Vermicompost
+22.2,78.4,244.0,6.3,1,3,3,clay loam,pigeonpea,NPK
+20.5,66.2,145.9,7.0,2,1,4,clay loam,pigeonpea,DAP
+32.1,55.6,62.3,7.2,2,2,2,clay loam,pigeonpea,Urea and MOP
+25.6,75.2,182.5,6.7,3,1,1,alluvial,pigeonpea,DAP
+23.0,75.8,213.8,5.7,3,1,1,alluvial,pigeonpea,DAP and MOP
+20.8,87.0,142.3,6.9,4,1,4,alluvial,pigeonpea,Urea and MOP
+22.6,58.6,95.6,6.1,2,1,5,alluvial,pigeonpea,MOP
+29.7,70.0,227.7,6.5,1,3,4,alluvial,pigeonpea,NPK
+26.3,75.7,211.5,6.0,5,1,4,laterite,pigeonpea,Vermicompost
+27.2,81.3,125.4,6.6,3,4,3,laterite,pigeonpea,NPK
+20.4,73.9,65.6,7.1,3,1,4,laterite,pigeonpea,Vermicompost
+31.5,90.0,245.1,5.7,2,3,5,laterite,pigeonpea,Urea
+31.5,87.9,169.4,7.5,4,3,2,laterite,pigeonpea,NPK
+23.5,62.7,200.2,6.2,5,1,3,coastal,pigeonpea,NPK
+28.4,57.5,247.7,7.3,4,5,3,coastal,pigeonpea,NPK
+27.4,53.6,104.2,5.9,5,4,1,coastal,pigeonpea,Vermicompost
+33.8,58.1,84.8,6.9,3,1,1,coastal,pigeonpea,NPK
+28.8,86.7,207.1,7.2,3,1,3,coastal,pigeonpea,Urea and MOP
+28.8,63.5,121.3,7.5,4,4,3,black,pigeonpea,NPK
+30.6,72.5,229.0,6.7,3,2,5,black,pigeonpea,NPK
+25.7,79.4,116.0,5.9,1,5,4,black,pigeonpea,Urea
+22.7,62.7,213.7,6.7,5,1,4,black,pigeonpea,NPK
+25.0,53.1,125.9,6.1,1,3,4,black,pigeonpea,Urea
+24.0,60.0,72.9,6.0,1,1,1,red,pigeonpea,Urea and MOP
+26.6,66.8,91.6,6.3,4,3,5,red,pigeonpea,Urea and MOP
+21.5,69.2,224.2,6.8,2,2,4,red,pigeonpea,DAP
+32.0,51.3,63.8,6.0,1,1,3,red,pigeonpea,NPK
+33.3,56.4,74.3,7.4,1,3,5,red,pigeonpea,DAP and MOP
+30.6,67.3,184.2,6.7,4,2,1,clayey,moong,DAP
+25.0,89.0,137.8,6.6,5,3,3,clayey,moong,Compost
+23.6,52.0,168.6,7.2,2,1,3,clayey,moong,Urea
+26.4,61.8,185.8,6.7,2,1,1,clayey,moong,MOP
+22.6,61.7,75.6,7.2,3,4,4,clayey,moong,DAP and MOP
+33.4,60.6,182.0,6.3,3,4,3,silty clay,moong,NPK
+26.7,60.5,148.4,6.0,3,5,1,silty clay,moong,NPK
+31.3,76.7,76.3,6.2,5,4,5,silty clay,moong,MOP
+28.3,83.6,215.5,6.3,5,4,5,silty clay,moong,MOP
+27.1,53.2,231.5,6.9,5,5,5,silty clay,moong,NPK
+21.8,80.3,92.8,7.5,2,2,2,sandy,moong,Urea
+26.4,89.5,142.7,7.5,2,5,3,sandy,moong,Vermicompost
+33.7,86.6,72.7,6.3,4,5,3,sandy,moong,Compost
+27.8,86.7,62.3,6.9,5,5,4,sandy,moong,DAP
+26.2,55.9,171.7,7.0,1,1,5,sandy,moong,DAP
+31.8,84.7,227.2,7.3,3,4,4,clay loam,moong,DAP and MOP
+20.6,61.0,87.3,6.7,4,1,4,clay loam,moong,Vermicompost
+30.4,52.0,150.3,6.0,3,1,3,clay loam,moong,Compost
+24.7,83.7,223.1,6.9,2,2,3,clay loam,moong,DAP and MOP
+31.6,62.8,198.5,6.7,1,2,4,clay loam,moong,MOP
+33.7,66.3,152.0,6.5,3,1,5,alluvial,moong,NPK
+21.0,78.4,136.6,7.1,5,5,1,alluvial,moong,NPK
+22.9,83.3,219.0,6.0,4,1,3,alluvial,moong,MOP
+24.1,82.9,156.0,6.8,1,1,2,alluvial,moong,Vermicompost
+27.3,67.8,242.5,6.4,5,3,3,alluvial,moong,NPK
+32.6,60.3,217.9,5.7,1,4,1,laterite,moong,NPK
+32.8,81.2,100.7,5.9,2,2,3,laterite,moong,Urea and MOP
+27.7,84.6,243.8,6.9,4,2,2,laterite,moong,Urea
+23.4,74.3,239.2,6.9,3,4,4,laterite,moong,Vermicompost
+26.9,58.7,117.4,6.5,5,4,5,laterite,moong,DAP
+20.1,90.0,243.6,7.2,5,5,5,coastal,moong,Compost
+24.5,54.3,72.1,7.5,3,3,3,coastal,moong,Compost
+22.8,70.7,105.7,5.6,5,4,3,coastal,moong,NPK
+30.8,76.2,249.5,6.0,4,4,4,coastal,moong,Urea
+28.7,89.8,215.0,6.2,2,5,4,coastal,moong,Vermicompost
+27.6,83.8,219.7,7.3,2,3,1,black,moong,DAP and MOP
+21.9,60.3,213.6,7.0,2,3,1,black,moong,MOP
+25.3,79.8,118.3,7.1,3,3,3,black,moong,Compost
+27.0,54.7,70.2,6.8,5,5,1,black,moong,DAP and MOP
+33.3,70.0,224.8,6.3,3,4,1,black,moong,NPK
+22.1,58.0,137.7,6.6,4,2,3,red,moong,NPK
+31.7,69.5,179.9,5.9,1,1,4,red,moong,Compost
+23.1,80.9,169.5,5.8,1,2,5,red,moong,Urea and MOP
+29.5,66.1,243.4,6.3,1,5,2,red,moong,Vermicompost
+34.3,85.7,203.8,6.6,1,1,2,red,moong,MOP
+30.4,63.8,84.5,6.3,5,3,2,clayey,urad,DAP
+32.4,61.9,115.3,7.0,5,5,3,clayey,urad,Urea and MOP
+33.3,89.8,125.1,7.3,3,2,2,clayey,urad,Urea and MOP
+20.3,59.0,247.1,5.9,1,5,5,clayey,urad,NPK
+21.8,78.4,210.5,6.3,3,5,5,clayey,urad,Urea
+28.9,51.9,80.5,7.2,1,1,4,silty clay,urad,DAP and MOP
+25.7,71.9,150.1,5.8,1,3,4,silty clay,urad,DAP
+29.9,60.8,175.1,5.8,1,5,5,silty clay,urad,DAP
+24.2,81.4,154.6,6.7,3,5,2,silty clay,urad,Vermicompost
+30.6,61.8,67.5,6.5,2,4,3,silty clay,urad,MOP
+20.0,76.9,232.3,7.2,4,2,1,sandy,urad,DAP
+30.9,54.1,108.6,6.0,3,3,4,sandy,urad,Urea
+21.5,57.0,67.5,6.1,3,4,1,sandy,urad,DAP
+32.8,85.6,61.8,5.8,2,3,3,sandy,urad,DAP and MOP
+34.3,60.7,199.3,6.2,3,2,1,sandy,urad,Urea and MOP
+26.0,68.3,218.8,6.9,4,4,2,clay loam,urad,DAP
+22.0,79.1,246.5,7.2,1,4,5,clay loam,urad,DAP and MOP
+32.0,77.1,94.4,6.3,3,5,1,clay loam,urad,NPK
+27.2,69.5,228.6,6.4,1,3,3,clay loam,urad,Urea
+30.6,77.1,205.8,6.7,5,2,3,clay loam,urad,DAP
+26.5,79.1,151.6,6.8,4,2,5,alluvial,urad,Urea
+20.2,87.4,156.1,6.4,4,2,1,alluvial,urad,DAP and MOP
+24.8,63.2,112.8,6.5,5,4,4,alluvial,urad,MOP
+21.2,67.8,168.9,5.7,4,4,3,alluvial,urad,DAP
+34.7,79.8,63.4,6.3,1,5,5,alluvial,urad,Urea
+32.4,81.7,243.0,6.8,5,5,2,laterite,urad,DAP and MOP
+34.3,64.5,70.3,5.9,4,3,5,laterite,urad,DAP and MOP
+30.7,64.5,146.0,5.7,2,1,3,laterite,urad,Vermicompost
+32.4,88.6,115.5,6.5,1,1,2,laterite,urad,DAP and MOP
+22.1,78.7,197.1,5.7,5,2,2,laterite,urad,DAP
+34.0,65.7,146.8,7.1,3,1,4,coastal,urad,Urea
+33.9,83.5,171.9,7.0,4,4,5,coastal,urad,NPK
+34.5,50.2,199.9,6.6,4,5,4,coastal,urad,NPK
+30.4,56.9,214.9,5.7,5,5,3,coastal,urad,Urea and MOP
+26.3,74.4,191.6,6.0,4,3,3,coastal,urad,DAP and MOP
+32.1,55.5,174.5,7.3,5,3,5,black,urad,Vermicompost
+30.7,87.4,180.2,5.9,5,3,3,black,urad,NPK
+34.7,76.0,242.1,6.5,3,1,3,black,urad,DAP and MOP
+28.7,87.7,194.9,6.8,5,3,4,black,urad,Urea
+27.8,51.0,87.6,6.8,2,3,2,black,urad,Compost
+30.3,55.9,71.8,7.1,2,5,1,red,urad,Vermicompost
+32.2,54.1,224.9,7.0,2,5,4,red,urad,MOP
+27.7,81.9,192.3,6.9,1,4,4,red,urad,Urea and MOP
+34.4,89.0,119.4,6.6,1,3,2,red,urad,DAP and MOP
+32.4,86.5,193.9,6.8,5,5,5,red,urad,MOP
+31.6,88.6,115.9,5.9,1,2,2,clayey,potato,DAP
+25.7,67.1,165.8,5.8,5,3,1,clayey,potato,Vermicompost
+27.0,87.5,67.6,7.4,5,1,5,clayey,potato,Compost
+27.4,72.9,128.0,7.1,3,5,2,clayey,potato,NPK
+27.8,81.5,90.3,6.6,4,1,3,clayey,potato,MOP
+33.3,76.5,122.9,6.1,5,5,4,silty clay,potato,Urea
+21.7,63.8,105.7,6.8,5,2,1,silty clay,potato,Vermicompost
+25.7,81.8,81.5,6.0,3,1,5,silty clay,potato,Vermicompost
+27.7,70.3,152.5,6.1,2,3,5,silty clay,potato,DAP
+34.2,56.7,241.7,6.6,1,1,2,silty clay,potato,MOP
+33.0,67.0,79.7,6.6,4,1,2,sandy,potato,Urea
+26.9,63.3,76.6,5.6,3,5,1,sandy,potato,MOP
+33.7,66.3,145.7,6.3,3,1,4,sandy,potato,DAP
+28.0,75.7,177.5,7.0,5,1,1,sandy,potato,Vermicompost
+33.9,54.2,209.5,6.1,1,3,4,sandy,potato,Urea and MOP
+25.9,76.4,150.1,6.6,2,4,5,clay loam,potato,Compost
+34.4,55.8,188.7,7.3,3,1,5,clay loam,potato,NPK
+21.8,50.2,173.4,6.6,1,3,2,clay loam,potato,Vermicompost
+23.2,86.2,221.8,5.8,2,2,5,clay loam,potato,Compost
+22.9,57.3,211.9,7.2,5,4,5,clay loam,potato,DAP
+24.4,52.7,78.7,7.0,4,3,3,alluvial,potato,NPK
+30.1,59.4,114.2,5.6,2,3,4,alluvial,potato,DAP and MOP
+24.9,76.4,191.8,5.8,5,3,3,alluvial,potato,Urea and MOP
+22.5,62.5,209.3,6.9,4,3,3,alluvial,potato,NPK
+30.2,63.3,151.2,6.4,3,4,5,alluvial,potato,DAP
+22.6,74.3,219.9,7.2,2,5,2,laterite,potato,Compost
+31.0,75.1,198.2,7.3,5,1,5,laterite,potato,Urea and MOP
+31.5,58.5,67.0,6.0,5,4,2,laterite,potato,Vermicompost
+25.9,85.7,172.0,7.2,2,4,5,laterite,potato,DAP
+26.0,70.1,185.9,7.2,5,2,5,laterite,potato,NPK
+26.7,57.2,240.3,6.8,2,4,3,coastal,potato,Urea
+23.3,69.5,71.9,6.2,1,2,5,coastal,potato,Vermicompost
+25.8,86.7,227.5,5.6,3,1,5,coastal,potato,Compost
+32.5,60.5,163.4,5.8,4,3,5,coastal,potato,DAP
+27.7,65.1,232.4,6.5,3,3,4,coastal,potato,DAP and MOP
+33.3,50.3,227.6,6.4,2,1,5,black,potato,Compost
+23.2,57.5,128.8,6.9,1,2,4,black,potato,Vermicompost
+30.8,69.3,151.0,5.9,2,4,1,black,potato,MOP
+20.6,72.9,90.6,6.8,1,5,2,black,potato,Urea
+22.5,86.9,158.2,6.3,5,1,3,black,potato,DAP
+23.2,74.3,149.6,6.5,2,4,5,red,potato,NPK
+31.9,82.8,94.6,6.8,3,2,3,red,potato,DAP and MOP
+28.9,52.8,131.9,5.8,1,2,5,red,potato,Urea and MOP
+32.4,74.2,93.7,7.3,5,1,5,red,potato,DAP
+21.4,76.4,231.4,6.6,1,4,5,red,potato,Urea and MOP
+25.6,51.7,160.7,6.0,4,4,3,clayey,tomato,DAP
+26.4,60.2,205.5,7.3,1,3,5,clayey,tomato,Urea and MOP
+23.9,50.2,201.3,5.5,5,1,5,clayey,tomato,Urea
+25.6,58.2,212.8,6.3,1,2,4,clayey,tomato,Compost
+23.9,71.4,167.3,6.7,4,2,4,clayey,tomato,DAP and MOP
+22.7,72.4,151.9,7.5,5,3,4,silty clay,tomato,NPK
+32.8,76.4,202.1,6.4,2,1,2,silty clay,tomato,Urea and MOP
+31.8,82.0,176.7,6.9,1,2,4,silty clay,tomato,Urea
+32.1,82.9,149.6,6.7,1,1,3,silty clay,tomato,MOP
+25.6,74.4,197.7,7.4,4,5,5,silty clay,tomato,Compost
+30.7,73.9,239.7,7.1,4,4,1,sandy,tomato,MOP
+32.8,87.2,158.4,5.9,5,5,5,sandy,tomato,MOP
+29.2,77.0,128.4,6.8,2,1,3,sandy,tomato,Urea and MOP
+25.3,65.8,171.4,6.5,1,1,5,sandy,tomato,Compost
+30.9,72.4,170.8,6.2,3,2,5,sandy,tomato,MOP
+26.8,66.2,60.9,5.9,5,1,5,clay loam,tomato,DAP
+27.5,63.6,82.2,6.5,3,5,5,clay loam,tomato,Compost
+30.4,88.6,167.0,7.0,3,4,4,clay loam,tomato,Urea
+27.2,60.3,132.7,7.1,2,2,3,clay loam,tomato,Urea and MOP
+34.3,70.7,61.8,7.2,2,3,1,clay loam,tomato,Urea and MOP
+30.1,82.8,74.4,7.4,4,3,3,alluvial,tomato,MOP
+33.4,60.8,240.0,6.9,2,4,2,alluvial,tomato,MOP
+31.0,84.9,99.3,5.9,2,5,3,alluvial,tomato,NPK
+31.7,54.8,74.9,7.4,4,5,1,alluvial,tomato,Urea
+32.7,64.8,119.9,7.3,5,3,4,alluvial,tomato,NPK
+34.8,86.6,113.3,5.9,5,2,1,laterite,tomato,Urea and MOP
+27.2,71.6,155.5,6.3,2,4,1,laterite,tomato,DAP and MOP
+24.7,50.3,188.1,6.3,1,3,3,laterite,tomato,Compost
+22.8,60.5,111.2,7.4,3,3,2,laterite,tomato,DAP and MOP
+26.4,66.8,202.9,6.2,4,3,4,laterite,tomato,NPK
+28.6,89.2,190.3,7.1,3,2,5,coastal,tomato,Urea and MOP
+32.8,57.8,212.0,7.0,4,1,2,coastal,tomato,Urea and MOP
+27.5,89.8,221.4,6.5,3,4,3,coastal,tomato,Compost
+28.4,72.7,135.7,6.9,1,2,3,coastal,tomato,DAP and MOP
+32.6,53.9,201.5,6.0,3,5,5,coastal,tomato,Compost
+25.2,66.5,126.7,6.9,5,2,5,black,tomato,NPK
+34.7,61.4,121.8,6.5,4,1,4,black,tomato,Compost
+27.0,88.3,225.0,6.8,3,4,5,black,tomato,Urea and MOP
+32.7,52.9,90.8,6.0,3,3,3,black,tomato,Urea and MOP
+24.1,67.8,223.9,6.2,5,5,4,black,tomato,Urea and MOP
+22.5,84.2,83.8,6.0,3,1,2,red,tomato,NPK
+26.0,53.8,238.0,6.4,1,1,4,red,tomato,DAP
+21.6,74.7,76.0,7.4,4,3,2,red,tomato,MOP
+31.1,67.7,84.0,6.6,2,1,1,red,tomato,Vermicompost
+32.9,63.0,150.5,7.4,5,3,5,red,tomato,DAP and MOP
+22.0,87.9,162.5,6.7,4,5,4,clayey,onion,Compost
+33.6,69.3,103.2,5.7,3,3,4,clayey,onion,Compost
+22.3,50.4,159.4,7.0,2,3,3,clayey,onion,DAP and MOP
+28.0,77.5,153.5,7.0,3,1,4,clayey,onion,Compost
+29.0,81.9,164.2,5.9,5,4,4,clayey,onion,MOP
+22.4,79.5,134.0,6.3,3,1,4,silty clay,onion,MOP
+27.7,82.0,176.5,6.9,3,3,5,silty clay,onion,Compost
+26.2,84.1,94.7,6.1,4,5,4,silty clay,onion,Compost
+30.5,69.7,120.9,5.8,5,1,2,silty clay,onion,DAP
+24.2,55.0,143.3,5.5,1,2,1,silty clay,onion,DAP and MOP
+23.3,66.8,209.3,6.5,3,4,1,sandy,onion,Vermicompost
+21.2,80.0,87.8,6.0,4,1,5,sandy,onion,DAP and MOP
+22.7,85.8,107.5,6.3,1,1,2,sandy,onion,Urea and MOP
+31.6,67.7,200.1,5.6,4,1,5,sandy,onion,MOP
+27.1,77.3,119.3,6.1,1,5,5,sandy,onion,DAP
+23.8,75.5,97.8,7.3,2,1,2,clay loam,onion,Urea and MOP
+24.9,56.7,112.5,5.7,2,1,1,clay loam,onion,DAP and MOP
+30.3,56.2,206.5,6.0,4,1,5,clay loam,onion,Vermicompost
+34.0,89.9,178.8,5.6,2,5,1,clay loam,onion,NPK
+27.3,62.7,166.1,6.8,3,4,2,clay loam,onion,Urea
+30.3,64.3,85.6,7.3,4,4,5,alluvial,onion,Compost
+28.1,69.6,167.7,6.6,3,4,3,alluvial,onion,NPK
+21.0,56.2,116.2,6.0,3,4,1,alluvial,onion,Urea and MOP
+31.0,85.3,177.7,6.2,5,2,3,alluvial,onion,DAP
+29.9,71.6,133.6,6.5,4,5,2,alluvial,onion,Compost
+24.8,75.6,81.0,6.5,1,1,2,laterite,onion,NPK
+33.1,58.1,152.2,5.7,5,4,4,laterite,onion,Compost
+20.7,58.8,196.4,5.5,2,4,1,laterite,onion,DAP and MOP
+32.0,52.4,166.0,7.4,4,3,1,laterite,onion,Compost
+27.9,79.4,218.5,5.7,2,5,1,laterite,onion,DAP
+30.9,71.3,96.0,6.6,2,5,2,coastal,onion,Urea and MOP
+31.2,80.7,169.5,6.8,4,1,2,coastal,onion,NPK
+28.2,70.2,184.9,6.6,5,4,3,coastal,onion,Vermicompost
+28.3,89.9,220.5,6.3,4,3,5,coastal,onion,MOP
+28.4,58.6,205.5,7.4,3,3,4,coastal,onion,DAP and MOP
+34.4,50.0,66.6,6.1,1,5,2,black,onion,Compost
+20.1,89.4,100.8,6.1,3,5,5,black,onion,NPK
+21.4,68.4,89.7,6.0,5,2,2,black,onion,Compost
+32.2,53.7,136.0,7.3,1,3,4,black,onion,NPK
+27.3,86.0,193.5,7.1,1,5,3,black,onion,Urea
+31.0,73.1,74.9,5.6,3,3,4,red,onion,Urea and MOP
+34.0,54.8,206.4,7.0,5,1,4,red,onion,Urea
+24.6,51.6,162.6,5.8,5,2,2,red,onion,Urea
+30.1,89.9,244.5,7.0,5,5,1,red,onion,MOP
+26.5,81.5,88.1,6.2,4,5,1,red,onion,Urea and MOP
+23.9,65.9,142.6,6.9,2,4,5,clayey,brinjal,MOP
+27.3,76.1,97.3,6.7,5,2,2,clayey,brinjal,DAP
+24.0,67.2,190.1,6.7,1,4,4,clayey,brinjal,Vermicompost
+25.2,62.8,172.8,5.5,3,2,3,clayey,brinjal,DAP and MOP
+29.3,67.6,235.6,6.0,3,2,1,clayey,brinjal,DAP
+31.1,59.7,178.0,5.8,3,1,3,silty clay,brinjal,DAP
+24.6,68.8,123.1,7.0,2,2,5,silty clay,brinjal,Compost
+28.2,74.9,248.5,6.9,1,4,5,silty clay,brinjal,Urea
+23.8,52.4,98.1,6.9,3,1,4,silty clay,brinjal,Urea
+21.0,76.4,186.0,7.3,3,1,1,silty clay,brinjal,Compost
+33.0,76.0,103.9,6.3,1,3,4,sandy,brinjal,DAP
+22.8,70.0,147.0,7.4,1,1,2,sandy,brinjal,Compost
+25.0,65.7,89.8,6.2,3,3,3,sandy,brinjal,MOP
+34.9,89.1,112.4,5.6,3,4,1,sandy,brinjal,Compost
+23.4,63.7,134.6,5.8,4,5,5,sandy,brinjal,MOP
+26.3,72.9,141.0,6.1,5,3,4,clay loam,brinjal,NPK
+23.1,55.5,162.9,7.1,2,3,5,clay loam,brinjal,NPK
+26.5,86.4,206.3,6.8,5,2,3,clay loam,brinjal,DAP
+28.4,87.9,82.5,6.1,2,1,3,clay loam,brinjal,Urea and MOP
+34.4,62.1,201.7,7.1,3,2,2,clay loam,brinjal,DAP
+22.0,51.0,247.3,6.7,5,5,5,alluvial,brinjal,MOP
+28.9,59.2,65.0,5.7,4,2,5,alluvial,brinjal,DAP and MOP
+30.7,65.0,221.9,6.5,2,2,2,alluvial,brinjal,MOP
+20.5,80.6,62.9,6.0,4,2,2,alluvial,brinjal,MOP
+21.0,87.1,247.3,7.2,4,3,4,alluvial,brinjal,MOP
+26.4,81.0,175.5,7.1,3,4,5,laterite,brinjal,Urea
+27.8,68.1,217.1,5.6,2,5,5,laterite,brinjal,Urea and MOP
+34.8,51.6,133.6,7.0,1,2,3,laterite,brinjal,DAP and MOP
+26.0,62.2,217.2,6.4,4,3,5,laterite,brinjal,Urea
+30.3,86.1,148.1,6.8,1,5,1,laterite,brinjal,NPK
+31.7,87.5,192.3,5.8,4,3,4,coastal,brinjal,Urea
+22.7,73.6,195.4,5.9,4,1,3,coastal,brinjal,Vermicompost
+30.4,86.3,211.3,6.9,1,1,1,coastal,brinjal,DAP and MOP
+29.5,53.4,194.4,7.0,5,5,2,coastal,brinjal,Urea and MOP
+28.3,51.8,92.5,6.2,2,2,2,coastal,brinjal,NPK
+31.5,52.1,118.5,7.0,4,3,2,black,brinjal,DAP
+33.5,88.4,60.7,7.0,1,4,4,black,brinjal,DAP and MOP
+28.2,50.2,227.7,6.0,5,4,4,black,brinjal,Urea and MOP
+26.6,74.0,61.2,7.3,3,5,5,black,brinjal,MOP
+20.7,55.9,184.1,5.6,1,5,5,black,brinjal,Compost
+25.0,53.5,80.7,7.5,2,3,5,red,brinjal,NPK
+34.5,80.0,128.4,5.6,3,3,3,red,brinjal,Urea and MOP
+32.3,80.3,220.2,5.6,4,2,1,red,brinjal,Compost
+24.9,66.6,99.9,5.9,1,1,5,red,brinjal,DAP
+27.3,77.5,237.4,7.5,3,4,5,red,brinjal,Vermicompost
+23.9,73.0,178.4,7.4,5,5,4,clayey,cabbage,DAP and MOP
+27.4,57.2,175.8,6.9,2,1,1,clayey,cabbage,Urea
+27.0,81.9,200.1,5.9,5,4,4,clayey,cabbage,Urea
+25.0,72.4,181.1,5.5,2,3,3,clayey,cabbage,DAP
+24.6,70.3,121.5,5.5,3,3,4,clayey,cabbage,Urea
+32.5,57.8,218.4,7.3,4,4,1,silty clay,cabbage,NPK
+27.2,75.1,229.5,6.6,3,4,4,silty clay,cabbage,Urea
+32.5,62.0,197.7,6.1,5,1,2,silty clay,cabbage,Vermicompost
+32.0,85.5,127.2,7.4,3,1,3,silty clay,cabbage,Urea and MOP
+29.4,83.7,168.5,6.3,5,1,3,silty clay,cabbage,Vermicompost
+30.6,60.9,76.5,7.3,3,4,3,sandy,cabbage,MOP
+27.9,57.0,131.1,5.6,2,1,4,sandy,cabbage,Urea
+32.0,86.2,89.3,6.2,4,5,3,sandy,cabbage,Vermicompost
+22.1,84.9,216.2,7.4,2,2,1,sandy,cabbage,DAP and MOP
+25.8,84.6,82.0,6.1,1,5,1,sandy,cabbage,Vermicompost
+27.0,51.8,158.9,6.8,3,1,5,clay loam,cabbage,Compost
+29.6,58.4,98.1,6.1,5,3,4,clay loam,cabbage,DAP
+24.1,56.3,81.7,7.4,5,5,1,clay loam,cabbage,MOP
+28.1,72.0,111.5,7.4,3,5,2,clay loam,cabbage,NPK
+21.1,74.5,124.4,6.4,2,1,4,clay loam,cabbage,Urea
+21.6,52.2,141.0,5.9,5,5,4,alluvial,cabbage,Vermicompost
+24.7,82.7,195.5,6.8,5,1,4,alluvial,cabbage,NPK
+21.4,82.1,192.7,5.7,3,4,4,alluvial,cabbage,MOP
+34.2,55.7,230.2,6.0,3,4,2,alluvial,cabbage,Vermicompost
+31.8,85.3,146.1,5.6,4,1,3,alluvial,cabbage,DAP and MOP
+26.9,56.8,205.9,6.7,2,5,1,laterite,cabbage,Urea and MOP
+32.3,81.9,121.9,6.8,3,5,4,laterite,cabbage,Urea and MOP
+28.9,59.5,106.3,5.8,4,4,1,laterite,cabbage,Vermicompost
+23.1,77.8,141.9,7.5,5,3,5,laterite,cabbage,MOP
+22.6,76.8,200.5,6.9,4,1,5,laterite,cabbage,DAP and MOP
+24.9,53.9,144.6,6.1,4,1,5,coastal,cabbage,DAP
+30.3,73.9,215.8,6.2,1,1,2,coastal,cabbage,NPK
+33.3,86.1,180.9,5.5,2,2,4,coastal,cabbage,Compost
+25.8,73.1,97.2,6.9,3,3,5,coastal,cabbage,Compost
+33.8,87.5,196.4,7.3,1,5,1,coastal,cabbage,Urea and MOP
+32.7,84.1,71.9,7.3,1,1,5,black,cabbage,Vermicompost
+21.6,61.3,65.9,6.4,5,4,3,black,cabbage,Urea and MOP
+26.1,67.4,100.1,5.8,2,2,5,black,cabbage,Urea and MOP
+32.6,64.4,139.3,6.1,2,2,1,black,cabbage,DAP
+29.7,55.8,228.1,6.8,2,1,2,black,cabbage,Urea and MOP
+32.9,85.7,192.1,7.4,5,2,4,red,cabbage,Urea and MOP
+28.3,68.0,127.5,5.9,5,1,5,red,cabbage,DAP and MOP
+32.7,59.5,155.3,6.3,5,5,3,red,cabbage,Urea
+34.7,72.7,193.9,5.7,4,1,2,red,cabbage,Compost
+27.0,53.1,229.1,5.7,4,1,5,red,cabbage,Compost
+29.2,86.1,161.7,5.5,4,5,4,clayey,cauliflower,Vermicompost
+26.3,88.4,211.7,6.1,1,5,3,clayey,cauliflower,Compost
+20.9,68.9,92.1,5.6,3,5,1,clayey,cauliflower,Compost
+27.3,55.1,74.6,7.1,3,2,5,clayey,cauliflower,Compost
+24.1,60.3,200.9,6.7,5,2,4,clayey,cauliflower,Vermicompost
+32.1,60.5,193.1,6.5,5,1,3,silty clay,cauliflower,DAP
+34.5,73.8,216.1,7.2,4,4,2,silty clay,cauliflower,DAP and MOP
+30.9,56.7,169.8,7.2,1,3,1,silty clay,cauliflower,Urea
+22.5,65.9,117.3,7.0,5,2,4,silty clay,cauliflower,Urea and MOP
+27.1,55.8,225.4,5.5,4,4,3,silty clay,cauliflower,Urea
+21.5,71.3,127.2,7.2,5,3,3,sandy,cauliflower,Compost
+24.0,53.9,184.3,6.3,2,5,2,sandy,cauliflower,Vermicompost
+30.2,89.7,119.5,5.5,1,1,1,sandy,cauliflower,Urea and MOP
+21.5,54.2,144.7,5.9,3,3,2,sandy,cauliflower,Urea
+20.4,53.7,238.3,6.8,2,5,1,sandy,cauliflower,DAP
+21.3,74.2,131.4,7.0,5,2,1,clay loam,cauliflower,NPK
+23.8,68.7,237.9,6.8,3,4,3,clay loam,cauliflower,Compost
+22.4,53.0,207.7,6.3,3,1,3,clay loam,cauliflower,Compost
+22.7,52.8,246.1,5.9,4,2,4,clay loam,cauliflower,DAP
+22.2,80.7,101.5,6.8,4,3,1,clay loam,cauliflower,Urea
+21.1,72.9,107.6,6.4,4,2,1,alluvial,cauliflower,Urea
+30.0,60.7,193.0,7.3,5,1,5,alluvial,cauliflower,DAP and MOP
+27.2,66.2,198.3,7.1,1,5,2,alluvial,cauliflower,Urea
+25.8,77.6,208.2,5.7,5,3,3,alluvial,cauliflower,Compost
+26.0,75.3,242.2,5.7,5,3,1,alluvial,cauliflower,DAP and MOP
+31.4,61.6,98.6,6.6,4,2,3,laterite,cauliflower,Urea and MOP
+33.4,75.2,128.3,5.7,4,2,2,laterite,cauliflower,Urea
+22.9,78.8,172.7,6.5,1,5,3,laterite,cauliflower,DAP and MOP
+28.0,83.4,145.4,7.5,1,3,1,laterite,cauliflower,Vermicompost
+31.8,51.7,82.5,7.1,5,4,5,laterite,cauliflower,NPK
+31.1,59.3,73.7,7.0,4,1,4,coastal,cauliflower,Urea
+23.6,76.0,62.7,6.8,3,1,4,coastal,cauliflower,NPK
+32.5,52.6,215.3,5.7,5,5,2,coastal,cauliflower,DAP
+32.1,67.0,214.2,7.5,4,3,1,coastal,cauliflower,NPK
+24.8,88.6,100.5,5.6,2,3,1,coastal,cauliflower,DAP
+24.1,80.3,91.9,6.2,2,4,2,black,cauliflower,Urea
+22.0,81.6,180.1,6.3,2,1,4,black,cauliflower,DAP
+20.1,57.2,76.9,6.8,3,4,4,black,cauliflower,NPK
+23.1,75.6,159.4,6.3,2,5,1,black,cauliflower,NPK
+30.8,74.5,76.7,7.2,3,3,4,black,cauliflower,Urea
+28.4,57.7,247.5,7.5,5,3,5,red,cauliflower,MOP
+27.0,75.1,99.5,5.6,1,2,4,red,cauliflower,DAP and MOP
+22.6,76.8,68.2,6.8,3,2,4,red,cauliflower,Compost
+25.0,82.2,204.1,5.6,1,5,2,red,cauliflower,NPK
+31.8,69.4,82.1,7.3,4,5,5,red,cauliflower,Vermicompost
+26.3,79.9,230.7,6.0,1,3,2,clayey,chilli,DAP
+23.6,66.5,98.0,7.3,1,4,5,clayey,chilli,DAP and MOP
+20.8,67.4,101.1,6.7,2,4,3,clayey,chilli,NPK
+26.9,57.8,128.1,6.0,3,2,1,clayey,chilli,Urea
+24.2,54.4,148.5,6.3,3,2,3,clayey,chilli,NPK
+31.8,75.5,176.2,5.8,5,2,1,silty clay,chilli,Urea and MOP
+32.9,69.6,249.2,6.7,4,3,1,silty clay,chilli,Urea and MOP
+31.0,59.9,122.2,6.7,5,2,5,silty clay,chilli,Urea
+26.3,51.8,248.3,7.0,5,1,4,silty clay,chilli,Urea and MOP
+27.2,81.9,216.0,6.4,2,1,5,silty clay,chilli,Urea
+30.4,66.3,101.4,6.2,2,1,1,sandy,chilli,DAP and MOP
+30.0,56.5,147.3,6.6,5,1,4,sandy,chilli,DAP and MOP
+31.6,85.0,137.0,7.1,3,4,1,sandy,chilli,DAP
+25.8,77.6,160.9,6.1,3,5,5,sandy,chilli,MOP
+31.8,53.2,227.4,7.0,1,5,3,sandy,chilli,Urea
+21.7,64.6,177.6,6.2,2,5,1,clay loam,chilli,MOP
+22.1,63.4,162.5,6.8,5,2,2,clay loam,chilli,Vermicompost
+25.3,60.7,189.2,6.1,1,3,3,clay loam,chilli,DAP and MOP
+27.3,71.1,83.3,6.9,5,3,4,clay loam,chilli,Vermicompost
+32.0,87.8,213.7,7.4,1,2,4,clay loam,chilli,DAP
+21.2,85.9,114.8,7.4,1,2,3,alluvial,chilli,DAP
+30.5,69.9,226.2,6.5,1,3,4,alluvial,chilli,NPK
+27.1,66.8,200.2,5.5,2,1,1,alluvial,chilli,MOP
+32.5,70.8,123.8,6.7,3,4,5,alluvial,chilli,DAP and MOP
+26.9,72.7,230.7,6.1,3,2,4,alluvial,chilli,Vermicompost
+34.6,80.8,69.0,6.2,4,2,5,laterite,chilli,NPK
+30.7,61.4,244.9,7.2,2,2,2,laterite,chilli,DAP
+20.6,62.7,84.0,6.0,2,2,5,laterite,chilli,Urea
+30.0,89.1,88.1,6.4,2,5,3,laterite,chilli,DAP
+33.8,66.2,154.9,5.8,4,3,2,laterite,chilli,Urea
+34.6,71.8,156.4,6.8,3,4,3,coastal,chilli,NPK
+32.0,79.1,235.2,6.2,1,4,1,coastal,chilli,NPK
+30.2,54.7,64.7,6.7,2,4,3,coastal,chilli,DAP
+24.9,74.3,97.1,6.6,3,2,1,coastal,chilli,DAP
+28.1,67.8,187.6,5.7,5,4,2,coastal,chilli,DAP and MOP
+24.8,74.2,239.2,7.3,3,4,2,black,chilli,Urea and MOP
+25.5,64.9,114.1,6.2,4,5,1,black,chilli,MOP
+30.9,67.8,248.6,7.1,3,2,4,black,chilli,Urea and MOP
+22.1,73.5,76.4,5.9,4,5,3,black,chilli,DAP
+34.0,73.6,131.4,5.5,3,4,2,black,chilli,DAP and MOP
+30.7,80.2,86.0,5.9,4,3,5,red,chilli,DAP and MOP
+20.6,83.0,218.6,6.1,5,4,2,red,chilli,Urea
+31.9,56.2,117.0,6.8,4,1,3,red,chilli,Urea and MOP
+22.7,86.3,182.5,5.6,3,4,1,red,chilli,Vermicompost
+28.7,72.6,225.0,6.8,4,1,3,red,chilli,Urea
+32.7,56.5,71.1,6.1,2,3,2,clayey,banana,Urea
+24.1,66.8,233.3,6.2,3,3,5,clayey,banana,DAP
+27.7,80.7,94.8,5.7,2,5,3,clayey,banana,Vermicompost
+32.4,77.4,117.2,6.9,3,1,5,clayey,banana,Vermicompost
+32.3,50.5,158.5,6.2,4,4,3,clayey,banana,NPK
+21.5,56.2,102.0,5.9,5,5,5,silty clay,banana,DAP
+26.3,86.6,82.1,5.8,1,4,3,silty clay,banana,Compost
+30.4,55.6,144.0,7.5,5,3,2,silty clay,banana,Compost
+20.4,82.6,102.2,7.2,2,2,3,silty clay,banana,NPK
+23.1,89.2,140.7,7.0,1,1,1,silty clay,banana,DAP and MOP
+31.4,51.7,80.5,7.1,5,5,1,sandy,banana,DAP and MOP
+21.8,60.1,72.6,6.8,1,1,5,sandy,banana,MOP
+28.8,58.0,187.4,5.6,2,3,5,sandy,banana,Vermicompost
+25.3,84.2,208.4,6.7,5,5,1,sandy,banana,DAP
+32.3,80.5,160.5,6.9,3,2,5,sandy,banana,Urea
+34.6,53.9,100.7,6.5,4,3,5,clay loam,banana,NPK
+26.6,88.3,94.4,6.2,4,4,2,clay loam,banana,MOP
+26.1,80.5,119.7,6.4,5,2,4,clay loam,banana,Vermicompost
+30.6,72.3,67.7,6.2,1,4,3,clay loam,banana,DAP and MOP
+29.0,62.5,245.5,6.4,5,4,3,clay loam,banana,Urea and MOP
+22.8,52.8,219.8,6.5,3,2,1,alluvial,banana,DAP and MOP
+30.1,65.9,159.3,6.9,1,2,4,alluvial,banana,Urea and MOP
+30.4,89.1,200.9,7.3,2,1,3,alluvial,banana,MOP
+25.1,73.8,248.2,5.7,4,4,3,alluvial,banana,Compost
+31.3,82.0,239.2,6.2,5,4,4,alluvial,banana,Compost
+22.2,68.2,83.2,6.5,2,2,1,laterite,banana,DAP
+31.1,83.2,154.6,5.6,2,4,5,laterite,banana,Vermicompost
+22.3,74.9,78.3,5.7,5,4,4,laterite,banana,MOP
+24.4,69.9,155.9,6.6,5,5,1,laterite,banana,Urea
+34.9,85.2,82.6,6.4,4,4,4,laterite,banana,Urea
+20.5,72.3,223.5,6.1,2,4,4,coastal,banana,NPK
+24.7,65.6,205.2,6.6,4,5,5,coastal,banana,DAP and MOP
+27.1,84.2,156.3,6.3,4,5,4,coastal,banana,Vermicompost
+31.5,61.4,71.7,6.7,2,3,3,coastal,banana,Urea
+31.5,75.0,132.3,6.4,3,4,3,coastal,banana,Urea
+29.9,59.9,183.1,6.7,1,3,1,black,banana,Vermicompost
+22.5,71.5,67.1,6.8,4,5,5,black,banana,Urea and MOP
+24.0,77.8,171.7,7.5,4,5,4,black,banana,Vermicompost
+28.6,82.3,79.0,6.9,3,4,5,black,banana,Vermicompost
+22.5,62.0,244.2,5.9,1,5,2,black,banana,Compost
+24.0,61.9,169.0,7.1,5,1,5,red,banana,DAP
+28.9,60.9,167.6,6.6,4,2,3,red,banana,DAP
+29.8,62.1,212.8,6.4,5,3,2,red,banana,Urea and MOP
+26.0,75.0,146.1,7.0,2,1,5,red,banana,NPK
+28.7,58.5,242.8,7.0,4,3,5,red,banana,Urea and MOP
+34.0,79.1,71.4,5.9,4,2,2,clayey,mango,NPK
+31.2,80.6,220.4,6.3,1,2,4,clayey,mango,Compost
+32.4,75.8,108.7,6.7,4,2,1,clayey,mango,NPK
+22.9,59.8,217.2,6.4,5,4,4,clayey,mango,Urea
+23.0,60.9,65.5,7.1,3,5,2,clayey,mango,Urea
+34.5,69.4,63.8,7.2,1,3,5,silty clay,mango,Compost
+33.0,86.0,137.3,6.2,1,4,2,silty clay,mango,MOP
+21.7,79.4,237.3,6.5,5,5,3,silty clay,mango,DAP and MOP
+33.3,59.5,83.2,7.1,3,5,4,silty clay,mango,MOP
+34.0,58.7,80.3,5.9,3,4,4,silty clay,mango,Compost
+32.9,52.2,161.4,6.9,1,3,5,sandy,mango,Urea and MOP
+27.1,59.9,112.8,7.1,2,3,4,sandy,mango,Vermicompost
+32.3,50.8,243.7,6.7,1,2,3,sandy,mango,Urea and MOP
+24.6,88.3,128.9,7.1,1,5,2,sandy,mango,DAP and MOP
+25.8,86.4,134.7,7.5,3,3,1,sandy,mango,MOP
+24.5,84.4,90.4,6.4,3,4,1,clay loam,mango,Compost
+33.0,82.9,238.7,6.4,4,3,4,clay loam,mango,DAP
+32.4,77.9,156.2,6.2,5,5,3,clay loam,mango,DAP and MOP
+30.4,80.5,181.9,5.9,4,2,1,clay loam,mango,Urea and MOP
+23.0,62.2,169.4,5.7,2,5,2,clay loam,mango,Urea and MOP
+31.9,62.8,150.9,7.0,3,2,5,alluvial,mango,Vermicompost
+32.0,57.9,138.8,5.9,4,5,2,alluvial,mango,Urea
+34.2,86.9,183.0,6.8,1,4,2,alluvial,mango,Compost
+30.5,56.8,136.2,6.4,3,2,1,alluvial,mango,Vermicompost
+22.6,72.7,62.7,6.6,4,4,1,alluvial,mango,MOP
+30.7,57.6,223.8,7.1,3,4,4,laterite,mango,NPK
+26.5,58.3,101.0,7.1,2,4,2,laterite,mango,Urea and MOP
+31.9,51.2,245.5,6.0,4,2,3,laterite,mango,DAP and MOP
+21.3,68.8,225.6,7.4,4,2,4,laterite,mango,Urea and MOP
+31.0,60.2,78.1,5.6,3,2,4,laterite,mango,Vermicompost
+35.0,87.6,243.8,6.7,1,1,3,coastal,mango,Urea and MOP
+24.5,65.8,130.5,7.4,5,1,5,coastal,mango,NPK
+23.9,70.1,236.8,7.3,2,1,3,coastal,mango,Urea and MOP
+22.1,54.7,68.4,5.8,3,3,4,coastal,mango,Compost
+33.5,60.5,217.6,7.4,5,3,4,coastal,mango,NPK
+24.7,89.8,205.1,5.8,4,1,2,black,mango,NPK
+20.8,57.3,149.3,5.8,4,4,1,black,mango,DAP and MOP
+20.6,64.3,194.7,6.5,4,1,2,black,mango,DAP
+25.2,58.1,114.0,7.2,5,3,5,black,mango,MOP
+28.8,88.9,159.9,6.6,4,1,2,black,mango,DAP and MOP
+30.2,85.5,64.9,6.9,1,4,3,red,mango,DAP
+32.6,56.2,75.4,7.2,4,4,3,red,mango,Urea
+24.9,51.8,178.2,6.4,5,2,2,red,mango,Urea
+32.0,61.3,211.6,7.0,5,5,4,red,mango,DAP
+26.0,57.1,243.4,7.2,1,1,2,red,mango,NPK
+25.8,66.1,183.0,7.4,2,1,3,clayey,cotton,DAP and MOP
+32.0,79.4,235.1,7.3,5,2,3,clayey,cotton,DAP
+32.5,70.5,153.0,7.3,4,3,5,clayey,cotton,Urea and MOP
+21.4,66.9,130.0,5.9,4,1,1,clayey,cotton,Vermicompost
+34.6,77.1,183.0,6.9,4,5,5,clayey,cotton,DAP
+24.4,67.5,232.4,6.5,2,2,3,silty clay,cotton,MOP
+27.8,61.8,69.1,5.7,1,5,1,silty clay,cotton,Urea and MOP
+26.2,68.6,196.9,7.1,3,3,5,silty clay,cotton,DAP
+31.5,50.7,200.7,6.4,2,4,1,silty clay,cotton,DAP
+26.2,78.2,119.6,6.9,4,5,3,silty clay,cotton,Vermicompost
+34.5,84.9,95.6,5.9,5,3,1,sandy,cotton,Urea and MOP
+28.0,50.2,82.2,5.8,4,4,4,sandy,cotton,DAP and MOP
+24.5,82.5,177.2,6.9,4,3,1,sandy,cotton,NPK
+22.0,57.6,215.0,6.9,2,1,2,sandy,cotton,DAP and MOP
+29.7,76.0,142.8,6.8,5,2,1,sandy,cotton,Compost
+31.5,55.9,140.2,5.7,2,4,4,clay loam,cotton,DAP and MOP
+20.3,68.0,106.1,6.1,4,1,3,clay loam,cotton,Urea
+21.5,83.9,142.0,6.3,4,5,5,clay loam,cotton,Compost
+20.6,66.0,157.5,6.9,4,2,1,clay loam,cotton,Urea
+26.3,62.6,72.1,7.3,4,4,1,clay loam,cotton,DAP and MOP
+29.3,75.8,145.2,6.4,2,3,2,alluvial,cotton,DAP and MOP
+25.2,59.3,101.7,7.3,3,5,4,alluvial,cotton,NPK
+33.2,78.9,134.2,6.3,3,4,2,alluvial,cotton,MOP
+24.2,80.0,186.7,5.8,2,2,5,alluvial,cotton,DAP and MOP
+21.5,66.6,248.8,6.1,2,5,1,alluvial,cotton,Urea
+25.4,60.4,188.6,5.8,5,1,1,laterite,cotton,Vermicompost
+26.5,74.7,82.9,5.9,3,3,3,laterite,cotton,Urea
+31.6,72.3,230.3,7.2,5,5,1,laterite,cotton,Urea
+33.9,67.5,146.9,7.2,1,1,5,laterite,cotton,DAP
+32.4,51.7,80.0,6.8,2,3,2,laterite,cotton,Compost
+30.6,80.5,154.7,7.2,2,3,3,coastal,cotton,NPK
+21.8,58.1,244.2,7.0,1,2,4,coastal,cotton,Vermicompost
+24.3,56.9,110.5,6.9,4,3,2,coastal,cotton,NPK
+31.3,71.2,209.6,5.8,4,4,4,coastal,cotton,DAP and MOP
+34.3,70.6,189.6,7.4,4,2,1,coastal,cotton,DAP
+21.3,62.6,246.6,5.8,1,4,1,black,cotton,NPK
+33.5,52.3,180.0,6.9,5,3,4,black,cotton,Urea and MOP
+33.3,78.0,226.0,6.9,3,3,1,black,cotton,Compost
+33.5,74.4,87.9,6.3,2,5,5,black,cotton,DAP and MOP
+30.5,85.5,208.5,6.3,2,3,1,black,cotton,Urea
+28.1,65.6,196.6,7.3,5,5,3,red,cotton,MOP
+21.4,72.1,159.1,7.0,2,1,1,red,cotton,Compost
+23.6,81.0,198.0,7.5,1,1,3,red,cotton,Compost
+29.4,64.2,69.1,6.8,1,4,3,red,cotton,Urea
+26.8,89.3,213.0,7.5,5,5,5,red,cotton,MOP
+25.3,61.4,209.1,6.9,2,4,5,clayey,sugarcane,MOP
+21.6,70.7,96.6,7.1,4,1,2,clayey,sugarcane,Urea and MOP
+32.4,53.3,71.8,7.3,4,2,4,clayey,sugarcane,DAP
+25.5,71.1,171.8,6.5,4,3,5,clayey,sugarcane,DAP and MOP
+29.5,89.9,190.9,7.4,4,2,2,clayey,sugarcane,NPK
+27.3,68.3,243.9,6.5,5,1,2,silty clay,sugarcane,DAP and MOP
+27.1,79.9,239.4,6.2,1,5,4,silty clay,sugarcane,DAP
+21.8,72.9,67.7,5.8,3,3,3,silty clay,sugarcane,Compost
+24.4,51.1,87.1,7.1,4,1,3,silty clay,sugarcane,Compost
+23.2,82.8,152.9,5.7,3,1,1,silty clay,sugarcane,Urea and MOP
+27.2,62.4,146.0,6.2,4,4,5,sandy,sugarcane,NPK
+31.4,70.2,147.6,6.4,4,2,3,sandy,sugarcane,DAP
+32.0,76.6,137.8,6.0,4,3,5,sandy,sugarcane,Urea
+34.4,85.6,199.8,6.8,2,1,5,sandy,sugarcane,Compost
+28.4,55.0,166.3,5.9,5,5,5,sandy,sugarcane,Urea
+34.4,70.9,202.6,6.5,1,1,5,clay loam,sugarcane,NPK
+34.4,61.0,99.1,7.2,5,4,1,clay loam,sugarcane,Vermicompost
+26.0,51.8,223.8,5.5,4,2,4,clay loam,sugarcane,Urea
+32.9,62.7,108.9,5.7,1,5,2,clay loam,sugarcane,Compost
+22.2,60.2,77.0,6.1,4,2,1,clay loam,sugarcane,Vermicompost
+22.7,78.5,116.6,5.7,2,4,3,alluvial,sugarcane,Compost
+25.6,83.1,83.0,5.9,5,5,2,alluvial,sugarcane,DAP and MOP
+27.6,70.2,240.4,6.0,3,4,5,alluvial,sugarcane,Urea and MOP
+21.0,51.2,180.4,7.3,1,3,5,alluvial,sugarcane,DAP
+23.7,72.2,209.2,6.1,4,4,1,alluvial,sugarcane,MOP
+31.7,55.7,162.7,5.8,2,5,4,laterite,sugarcane,DAP and MOP
+20.6,82.5,242.6,6.7,2,1,1,laterite,sugarcane,DAP and MOP
+24.1,60.0,189.2,7.5,2,5,5,laterite,sugarcane,Compost
+20.7,79.6,167.0,6.1,4,1,2,laterite,sugarcane,Compost
+33.2,58.4,155.9,7.1,3,3,4,laterite,sugarcane,Compost
+23.7,89.3,124.9,6.4,5,3,1,coastal,sugarcane,NPK
+29.7,50.1,150.5,7.3,2,4,5,coastal,sugarcane,DAP and MOP
+31.4,71.5,209.6,6.8,1,5,1,coastal,sugarcane,DAP and MOP
+30.1,64.1,214.4,7.2,3,4,2,coastal,sugarcane,Urea
+21.9,64.8,96.7,5.5,1,3,3,coastal,sugarcane,MOP
+21.3,74.5,117.6,6.9,2,4,3,black,sugarcane,Urea
+24.2,86.2,194.3,5.9,2,4,1,black,sugarcane,Compost
+28.5,69.8,164.8,6.8,5,5,5,black,sugarcane,NPK
+21.0,55.1,72.4,6.0,5,2,5,black,sugarcane,Compost
+22.9,77.1,248.5,6.9,5,5,3,black,sugarcane,DAP and MOP
+20.0,67.1,187.9,6.8,3,4,4,red,sugarcane,Compost
+21.8,70.7,154.2,6.5,1,2,1,red,sugarcane,Compost
+33.8,71.3,120.1,6.3,3,1,5,red,sugarcane,Urea
+34.9,59.0,191.0,7.4,2,2,2,red,sugarcane,Vermicompost
+24.7,75.0,78.4,6.5,1,5,3,red,sugarcane,Compost
+23.7,68.9,242.2,7.2,3,5,2,clayey,groundnut,DAP
+31.6,74.8,205.2,6.8,5,1,1,clayey,groundnut,Urea
+33.8,65.1,229.1,6.9,2,1,4,clayey,groundnut,Urea
+24.5,75.0,72.5,6.9,5,1,3,clayey,groundnut,Urea and MOP
+26.0,74.7,138.1,7.2,5,1,4,clayey,groundnut,Urea and MOP
+27.0,67.1,177.8,5.7,1,4,5,silty clay,groundnut,Vermicompost
+28.8,54.3,62.3,6.9,5,2,5,silty clay,groundnut,NPK
+29.6,60.3,140.0,6.9,4,2,2,silty clay,groundnut,NPK
+32.0,52.4,119.2,6.4,3,3,5,silty clay,groundnut,NPK
+22.2,62.3,125.2,6.2,1,5,5,silty clay,groundnut,NPK
+20.9,70.3,218.7,7.2,4,3,2,sandy,groundnut,MOP
+29.6,58.1,73.0,5.9,4,4,5,sandy,groundnut,Vermicompost
+32.8,72.6,123.8,6.1,3,2,1,sandy,groundnut,DAP and MOP
+33.1,86.4,154.2,7.3,2,2,4,sandy,groundnut,MOP
+23.6,79.4,241.0,6.2,4,2,4,sandy,groundnut,NPK
+32.4,50.3,61.9,6.2,5,1,2,clay loam,groundnut,Compost
+26.6,75.3,233.4,6.2,1,2,2,clay loam,groundnut,Compost
+22.6,85.4,196.6,6.2,5,2,2,clay loam,groundnut,MOP
+20.3,83.7,233.0,5.5,2,4,1,clay loam,groundnut,Vermicompost
+34.0,62.2,105.6,7.1,2,5,5,clay loam,groundnut,Urea and MOP
+33.2,52.6,87.4,7.3,2,2,5,alluvial,groundnut,Urea and MOP
+30.4,62.7,141.6,6.8,1,5,5,alluvial,groundnut,MOP
+32.8,61.8,88.2,6.0,3,2,5,alluvial,groundnut,DAP and MOP
+23.1,53.3,149.4,6.8,1,2,5,alluvial,groundnut,Urea and MOP
+31.3,75.8,156.7,6.5,4,2,3,alluvial,groundnut,Vermicompost
+27.9,69.3,241.6,6.4,5,4,5,laterite,groundnut,Urea
+23.1,85.8,145.9,6.0,2,3,4,laterite,groundnut,Urea and MOP
+28.6,87.4,131.1,6.6,2,1,3,laterite,groundnut,DAP and MOP
+27.8,59.2,67.8,6.5,3,4,4,laterite,groundnut,DAP and MOP
+26.5,64.7,154.5,6.0,1,2,4,laterite,groundnut,MOP
+24.0,53.0,231.3,6.1,5,5,5,coastal,groundnut,DAP
+31.8,87.1,78.7,5.6,1,5,2,coastal,groundnut,Vermicompost
+22.9,63.2,117.5,7.1,3,2,5,coastal,groundnut,NPK
+35.0,80.1,200.6,7.3,1,3,3,coastal,groundnut,Vermicompost
+31.7,66.2,137.1,6.7,1,4,5,coastal,groundnut,NPK
+33.0,59.1,197.4,5.9,2,5,5,black,groundnut,DAP and MOP
+30.8,68.5,210.5,6.1,2,4,4,black,groundnut,MOP
+26.6,84.1,65.7,5.8,2,3,1,black,groundnut,DAP and MOP
+32.2,83.4,124.6,6.3,4,5,3,black,groundnut,Vermicompost
+28.8,72.7,66.1,5.8,3,5,5,black,groundnut,Urea and MOP
+34.7,58.2,134.2,6.6,2,4,1,red,groundnut,Vermicompost
+28.5,68.1,230.0,5.7,1,5,2,red,groundnut,Urea
+32.4,74.1,65.1,5.9,4,3,2,red,groundnut,MOP
+24.4,71.0,146.4,6.2,1,2,3,red,groundnut,Urea and MOP
+25.9,89.6,84.5,6.3,1,4,2,red,groundnut,NPK
+33.1,62.4,215.4,6.8,2,5,5,clayey,soybean,Compost
+28.8,70.1,190.1,6.1,1,2,4,clayey,soybean,DAP
+32.4,74.2,106.9,6.2,5,4,4,clayey,soybean,DAP and MOP
+28.6,79.5,114.7,7.3,4,3,3,clayey,soybean,Urea and MOP
+29.2,82.4,93.3,6.0,5,4,4,clayey,soybean,Urea and MOP
+33.7,57.3,168.0,6.3,1,2,2,silty clay,soybean,Compost
+33.2,71.5,186.7,5.6,2,4,4,silty clay,soybean,DAP
+34.9,53.1,80.0,7.0,3,4,4,silty clay,soybean,NPK
+23.8,70.2,147.8,5.6,4,4,3,silty clay,soybean,Urea and MOP
+32.8,65.9,62.0,5.7,2,3,4,silty clay,soybean,DAP and MOP
+26.9,53.3,184.8,6.9,4,2,4,sandy,soybean,Compost
+32.6,56.8,63.4,5.7,3,1,5,sandy,soybean,Urea and MOP
+22.5,76.9,62.1,6.0,4,3,2,sandy,soybean,MOP
+30.7,85.7,161.1,6.4,1,5,1,sandy,soybean,Urea and MOP
+30.4,67.8,173.7,5.6,4,2,2,sandy,soybean,Vermicompost
+33.6,58.0,63.0,5.6,1,3,2,clay loam,soybean,DAP
+23.3,85.3,211.4,7.2,2,2,1,clay loam,soybean,Urea and MOP
+27.7,82.6,121.3,6.8,5,2,5,clay loam,soybean,Urea and MOP
+34.1,54.8,100.6,6.2,2,1,4,clay loam,soybean,Vermicompost
+20.2,58.5,101.8,6.8,3,5,3,clay loam,soybean,Urea
+21.0,58.7,117.3,6.7,1,5,5,alluvial,soybean,NPK
+23.8,53.8,121.6,6.8,4,2,3,alluvial,soybean,NPK
+29.5,85.4,120.4,7.2,4,1,3,alluvial,soybean,Urea
+29.1,73.4,132.7,6.8,2,5,5,alluvial,soybean,Urea
+23.5,74.7,230.4,6.1,4,2,5,alluvial,soybean,DAP
+20.9,65.0,116.4,5.8,2,1,2,laterite,soybean,DAP and MOP
+31.1,63.1,112.8,6.8,1,5,4,laterite,soybean,Compost
+31.3,59.2,199.2,6.2,2,5,1,laterite,soybean,MOP
+32.0,77.9,102.3,7.2,5,3,2,laterite,soybean,DAP and MOP
+29.4,52.6,153.4,7.4,1,2,2,laterite,soybean,NPK
+21.4,73.7,217.9,7.4,2,5,1,coastal,soybean,Urea and MOP
+30.9,62.5,197.1,6.0,2,5,2,coastal,soybean,Compost
+24.3,67.9,180.8,6.0,4,1,3,coastal,soybean,Urea and MOP
+25.7,68.8,140.3,6.7,4,2,4,coastal,soybean,Urea
+31.4,67.1,75.8,7.3,3,5,5,coastal,soybean,NPK
+28.3,57.0,132.3,6.1,3,4,5,black,soybean,DAP and MOP
+21.1,55.5,149.2,5.8,2,1,1,black,soybean,Vermicompost
+27.4,87.0,238.7,7.4,3,4,4,black,soybean,Compost
+29.6,73.5,137.7,5.6,1,4,5,black,soybean,NPK
+22.9,67.5,108.5,7.3,3,5,4,black,soybean,Vermicompost
+30.4,76.0,236.0,7.0,2,4,1,red,soybean,Vermicompost
+29.5,77.1,192.5,6.8,3,5,4,red,soybean,NPK
+23.8,74.1,240.8,7.2,1,1,1,red,soybean,Urea and MOP
+26.0,73.4,231.2,6.5,2,4,2,red,soybean,Urea and MOP
+23.8,62.1,243.9,6.8,4,5,3,red,soybean,Urea and MOP
+31.3,87.0,225.2,5.7,5,3,2,clayey,sunflower,Compost
+31.2,87.2,135.6,6.1,2,4,1,clayey,sunflower,DAP
+21.0,77.9,159.7,6.8,4,2,2,clayey,sunflower,Vermicompost
+22.8,55.4,152.4,6.5,1,4,5,clayey,sunflower,MOP
+22.8,52.4,94.7,7.0,3,4,4,clayey,sunflower,DAP
+33.0,56.6,115.7,6.3,3,1,3,silty clay,sunflower,Urea
+28.8,69.1,187.8,5.7,1,3,1,silty clay,sunflower,Urea
+21.5,70.9,61.4,6.7,3,4,4,silty clay,sunflower,Vermicompost
+29.1,63.5,189.6,6.2,3,2,3,silty clay,sunflower,Urea and MOP
+25.7,52.3,127.6,6.2,1,1,4,silty clay,sunflower,Urea and MOP
+30.9,85.5,86.4,6.7,5,3,2,sandy,sunflower,Vermicompost
+26.8,77.4,225.3,6.5,2,1,3,sandy,sunflower,Urea
+29.5,84.9,244.2,7.0,4,2,5,sandy,sunflower,DAP and MOP
+26.0,74.5,75.5,6.4,4,1,4,sandy,sunflower,Compost
+29.1,78.5,225.3,7.3,5,1,2,sandy,sunflower,DAP and MOP
+32.0,62.1,187.9,6.6,4,2,4,clay loam,sunflower,DAP
+27.2,71.6,106.2,5.8,1,1,4,clay loam,sunflower,Urea
+22.4,87.2,231.5,7.0,2,3,4,clay loam,sunflower,DAP
+30.0,86.9,180.4,6.5,3,2,5,clay loam,sunflower,DAP
+29.7,65.1,196.3,7.0,4,5,4,clay loam,sunflower,MOP
+23.4,54.6,76.7,5.7,5,2,1,alluvial,sunflower,Vermicompost
+21.9,62.5,132.2,7.0,3,1,5,alluvial,sunflower,MOP
+32.7,89.2,120.7,6.2,2,5,5,alluvial,sunflower,MOP
+21.6,50.4,221.9,6.1,3,2,4,alluvial,sunflower,DAP and MOP
+22.2,61.3,201.9,7.2,1,5,3,alluvial,sunflower,Compost
+27.5,77.5,112.0,7.2,5,4,2,laterite,sunflower,DAP and MOP
+24.4,88.7,71.2,7.1,2,2,2,laterite,sunflower,Urea
+33.8,81.0,222.8,7.0,3,2,1,laterite,sunflower,Urea and MOP
+25.1,77.1,248.2,7.0,4,1,5,laterite,sunflower,Compost
+24.2,86.9,193.2,6.6,1,2,3,laterite,sunflower,Urea
+32.7,78.4,146.9,5.8,2,4,4,coastal,sunflower,Compost
+33.5,58.4,212.8,5.9,1,3,5,coastal,sunflower,DAP
+30.2,89.5,88.0,7.4,4,2,1,coastal,sunflower,DAP
+25.3,69.0,239.6,5.7,5,3,5,coastal,sunflower,Urea and MOP
+34.5,75.1,136.8,5.6,2,4,4,coastal,sunflower,Compost
+30.3,88.2,184.0,6.3,1,4,4,black,sunflower,Compost
+29.5,67.8,62.2,5.7,1,4,5,black,sunflower,MOP
+20.3,72.9,168.8,6.0,1,5,2,black,sunflower,Urea and MOP
+27.3,75.8,142.4,6.6,1,3,1,black,sunflower,NPK
+26.1,78.0,134.8,7.1,5,4,1,black,sunflower,DAP
+31.3,58.3,185.1,5.7,5,2,1,red,sunflower,DAP and MOP
+32.0,54.9,84.5,5.9,2,1,5,red,sunflower,Compost
+32.8,51.4,246.2,6.5,3,5,2,red,sunflower,Urea and MOP
+34.7,76.3,107.2,5.6,5,3,5,red,sunflower,DAP and MOP
+22.1,69.6,119.5,7.3,3,5,5,red,sunflower,MOP
+30.3,76.5,68.5,5.6,2,3,2,clayey,mustard,NPK
+29.0,58.6,128.2,5.8,5,4,1,clayey,mustard,Compost
+23.9,76.0,91.0,6.4,3,4,2,clayey,mustard,MOP
+21.1,79.3,249.1,6.9,2,3,5,clayey,mustard,NPK
+26.3,56.1,248.6,6.4,1,5,2,clayey,mustard,DAP
+24.1,71.3,190.0,6.3,3,1,3,silty clay,mustard,Vermicompost
+31.7,55.9,211.6,6.0,1,4,2,silty clay,mustard,Urea and MOP
+34.3,81.3,83.5,6.6,3,5,4,silty clay,mustard,DAP
+27.9,78.0,224.4,6.6,5,1,1,silty clay,mustard,NPK
+24.8,80.1,94.3,7.1,5,5,5,silty clay,mustard,Urea and MOP
+27.2,55.1,61.8,6.5,2,2,2,sandy,mustard,Urea and MOP
+28.5,60.7,234.5,6.8,3,2,5,sandy,mustard,Urea and MOP
+30.6,57.3,247.4,7.1,5,3,3,sandy,mustard,Urea and MOP
+27.8,78.7,235.5,6.0,1,3,4,sandy,mustard,Vermicompost
+32.7,75.4,74.6,6.0,1,2,5,sandy,mustard,Urea
+21.3,61.4,236.6,7.1,1,4,5,clay loam,mustard,NPK
+27.2,70.6,249.6,7.3,1,4,1,clay loam,mustard,MOP
+33.7,79.8,195.7,6.9,3,2,5,clay loam,mustard,Urea
+29.1,88.6,188.2,7.3,5,2,2,clay loam,mustard,DAP
+25.5,55.3,127.1,5.6,4,4,2,clay loam,mustard,Vermicompost
+34.5,63.5,189.0,7.2,1,3,3,alluvial,mustard,DAP and MOP
+24.4,58.5,200.2,6.6,2,3,5,alluvial,mustard,Urea
+34.0,85.7,221.2,5.6,1,5,4,alluvial,mustard,Vermicompost
+24.5,54.3,126.4,6.9,4,3,1,alluvial,mustard,DAP
+26.5,57.9,160.5,7.3,4,1,4,alluvial,mustard,Urea
+22.3,76.3,103.0,6.3,3,3,4,laterite,mustard,NPK
+28.0,60.8,248.0,6.8,4,2,2,laterite,mustard,Vermicompost
+31.2,50.2,227.9,6.9,1,2,3,laterite,mustard,Urea
+22.0,66.8,122.9,5.6,2,4,3,laterite,mustard,DAP
+26.3,72.0,212.0,6.9,3,4,5,laterite,mustard,Urea and MOP
+22.0,88.3,210.6,5.8,3,5,1,coastal,mustard,MOP
+20.8,83.2,141.6,6.7,1,4,4,coastal,mustard,Compost
+24.2,53.3,141.5,6.7,5,2,2,coastal,mustard,Compost
+31.5,84.6,248.9,6.0,4,2,4,coastal,mustard,DAP
+30.5,70.1,94.4,7.5,5,2,2,coastal,mustard,DAP
+22.0,51.5,248.2,7.4,4,1,5,black,mustard,MOP
+21.4,52.0,137.4,6.1,2,2,3,black,mustard,Urea and MOP
+27.2,70.4,182.3,6.1,3,3,3,black,mustard,Vermicompost
+30.7,59.9,230.1,5.9,1,1,3,black,mustard,MOP
+24.3,61.2,175.2,6.4,3,4,3,black,mustard,Vermicompost
+24.6,53.9,62.6,6.6,2,3,3,red,mustard,Vermicompost
+31.1,73.6,174.9,6.0,3,2,5,red,mustard,Urea and MOP
+21.3,54.3,179.6,6.7,1,5,2,red,mustard,MOP
+30.6,87.0,74.2,6.6,3,3,4,red,mustard,MOP
+28.0,56.1,84.3,6.3,3,5,3,red,mustard,Vermicompost
